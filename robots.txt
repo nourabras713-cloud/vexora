@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vexora.pages.dev/sitemap.xml
+Sitemap: https://vexora-4tm.pages.dev/sitemap.xml
