@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "category": "racing",
+    "description": "Race a dirt bike through 22 action-packed obstacle courses, perform stunts and beat the clock.",
+    "thumbnail": "https://img.youtube.com/vi/fhOLg3vL_sI/hqdefault.jpg",
+    "page": "/games/moto-x3m.html",
+    "sourceUrl": "https://www.crazygames.com/game/moto-x3m"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "category": "arcade",
+    "description": "Jump into fast 3D kart battles, collect weapons and compete against players in multiplayer arenas.",
+    "thumbnail": "https://img.youtube.com/vi/BK__rAEEJ-w/hqdefault.jpg",
+    "page": "/games/smash-karts.html",
+    "sourceUrl": "https://www.crazygames.com/game/smash-karts"
+  },
+  {
+    "id": "bloxd-io",
+    "title": "Bloxd.io",
+    "category": "action",
+    "description": "Explore blocky worlds, race through parkour maps, build creatively and try different multiplayer game modes.",
+    "thumbnail": "https://img.youtube.com/vi/2N4m-PXYZqM/hqdefault.jpg",
+    "page": "/games/bloxd-io.html",
+    "sourceUrl": "https://www.crazygames.com/game/bloxdhop-io"
+  },
+  {
+    "id": "8-ball-pool",
+    "title": "8 Ball Pool",
+    "category": "sports",
+    "description": "Play classic eight-ball billiards against online opponents and test your aim, angles and strategy.",
+    "thumbnail": "https://img.youtube.com/vi/MarGQrmbPm0/hqdefault.jpg",
+    "page": "/games/8-ball-pool.html",
+    "sourceUrl": "https://www.crazygames.com/game/8-ball-pool-wyr"
+  },
+  {
+    "id": "geometry-game",
+    "title": "Geometry Game",
+    "category": "arcade",
+    "description": "Jump in rhythm, dodge sharp obstacles and see how far you can get in this fast one-button platform challenge.",
+    "thumbnail": "https://img.youtube.com/vi/6mCcc8MllsE/hqdefault.jpg",
+    "page": "/games/geometry-game.html",
+    "sourceUrl": "https://www.crazygames.com/game/geometry-dash-online"
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "category": "racing",
+    "description": "Tune powerful cars, slide through sweeping corners and earn points in this realistic 3D drifting game.",
+    "thumbnail": "https://img.youtube.com/vi/4LT-NPu5qOo/hqdefault.jpg",
+    "page": "/games/drift-hunters.html",
+    "sourceUrl": "https://www.crazygames.com/game/drift-hunters"
+  },
+  {
+    "id": "fireboy-watergirl-forest-temple",
+    "title": "Fireboy and Watergirl 1: Forest Temple",
+    "category": "puzzle",
+    "description": "Play Fireboy and Watergirl 1: Forest Temple online. Solve 32 puzzles, collect diamonds and guide both characters safely to the exits.",
+    "thumbnail": "https://imgs.crazygames.com/games/fireboy-and-watergirl-the-forest-temple/cover-1586285142530.jpg?format=auto&metadata=none&quality=100&width=1200",
+    "page": "/games/fireboy-watergirl-forest-temple.html",
+    "sourceUrl": "https://www.crazygames.com/game/fireboy-and-watergirl-the-forest-temple"
+  },
+  {
+    "id": "penalty-shooters-2",
+    "title": "Penalty Shooters 2",
+    "category": "sports",
+    "description": "Play Penalty Shooters 2 online and lead your team to the cup. Take penalty kicks, defend the goal and win tournament matches.",
+    "thumbnail": "https://img.youtube.com/vi/iDkJJ4n7dWQ/hqdefault.jpg",
+    "page": "/games/penalty-shooters-2.html",
+    "sourceUrl": "https://www.crazygames.com/game/penalty-shooters-2"
+  },
+  {
+    "id": "vex-7",
+    "title": "Vex 7",
+    "category": "action",
+    "description": "Play Vex 7 online and master challenging stickman parkour levels. Run, jump, slide and dodge spikes, lasers and deadly traps.",
+    "thumbnail": "https://img.youtube.com/vi/11v_EseRv7s/hqdefault.jpg",
+    "page": "/games/vex-7.html",
+    "sourceUrl": "https://www.coolmathgames.com/0-vex-7"
+  },
+  {
+    "id": "level-devil",
+    "title": "Level Devil",
+    "category": "action",
+    "description": "Reach the exit in a tricky platform game full of disappearing floors, moving spikes and surprise traps.",
+    "thumbnail": "https://img.youtube.com/vi/pv1OtS5TZRs/hqdefault.jpg",
+    "page": "/games/level-devil.html",
+    "sourceUrl": "https://poki.com/en/g/level-devil"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "arcade",
+    "description": "Guide a rolling ball down a fast 3D neon track, dodge red obstacles and survive as the speed keeps increasing.",
+    "thumbnail": "https://img.youtube.com/vi/yEnVcLpTri0/hqdefault.jpg",
+    "page": "/games/slope.html",
+    "sourceUrl": "https://www.y8.com/games/slope"
+  },
+  {
+    "id": "stickman-hook",
+    "title": "Stickman Hook",
+    "category": "arcade",
+    "description": "Swing a stickman from hook to hook, build momentum and reach the finish line in this fast-paced physics skill game.",
+    "thumbnail": "https://img.youtube.com/vi/dfcIYQWjThA/hqdefault.jpg",
+    "page": "/games/stickman-hook.html",
+    "sourceUrl": "https://poki.com/en/g/stickman-hook"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "category": "arcade",
+    "description": "Dash across busy train tracks, dodge oncoming trains, collect coins and use hoverboards in the legendary endless runner.",
+    "thumbnail": "https://img.youtube.com/vi/euCRp17QTLc/hqdefault.jpg",
+    "page": "/games/subway-surfers.html",
+    "sourceUrl": "https://poki.com/en/g/subway-surfers"
+  },
+  {
+    "id": "slither-io",
+    "title": "Slither.io",
+    "category": "arcade",
+    "description": "Play Slither.io online and grow your snake by collecting glowing orbs. Avoid rival snakes, use smart moves and climb the multiplayer leaderboard.",
+    "thumbnail": "https://img.youtube.com/vi/7H1GXCUxcGw/hqdefault.jpg",
+    "page": "/games/slither-io.html",
+    "sourceUrl": "https://slither.io/?lang=en"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "puzzle",
+    "description": "Play 2048 online and combine matching number tiles. Slide the board, plan each move and try to create the 2048 tile.",
+    "thumbnail": "https://raw.githubusercontent.com/gabrielecirulli/2048/master/meta/apple-touch-startup-image-640x920.png",
+    "page": "/games/2048.html",
+    "sourceUrl": "https://classic.play2048.co/"
+  },
+  {
+    "id": "agar-io",
+    "title": "Agar.io",
+    "category": "arcade",
+    "description": "Play Agar.io online and grow your cell by eating pellets and smaller players. Avoid larger cells, split strategically and climb the multiplayer leaderboard.",
+    "thumbnail": "https://img.youtube.com/vi/rDd5QYPVEB4/hqdefault.jpg",
+    "page": "/games/agar-io.html",
+    "sourceUrl": "https://www.crazygames.com/game/agario"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "category": "arcade",
+    "description": "Play Paper.io 2 online and conquer the arena. Draw loops to claim territory, protect your trail and outsmart rival players.",
+    "thumbnail": "https://img.youtube.com/vi/VZrGLcBdFNA/hqdefault.jpg",
+    "page": "/games/paper-io-2.html",
+    "sourceUrl": "https://poki.com/en/g/paperio-2"
+  },
+  {
+    "id": "monkey-mart",
+    "title": "Monkey Mart",
+    "category": "arcade",
+    "description": "Run a busy monkey supermarket. Grow crops, restock shelves, serve customers, hire helpers and expand your store.",
+    "thumbnail": "https://img.youtube.com/vi/023ng_FloRs/hqdefault.jpg",
+    "page": "/games/monkey-mart.html",
+    "sourceUrl": "https://poki.com/en/g/monkey-mart"
+  },
+  {
+    "id": "drive-mad",
+    "title": "Drive Mad",
+    "category": "racing",
+    "description": "Drive across wild obstacle courses in Drive Mad. Balance your car, time your acceleration and reach the finish without flipping over.",
+    "thumbnail": "https://img.youtube.com/vi/R5_OrBg01cE/hqdefault.jpg",
+    "page": "/games/drive-mad.html",
+    "sourceUrl": "https://poki.com/en/g/drive-mad"
+  },
+  {
+    "id": "temple-run-2",
+    "title": "Temple Run 2",
+    "category": "arcade",
+    "description": "Escape the demon monkey in Temple Run 2. Run through ancient temples, dodge traps, jump over gaps and collect coins in this endless running adventure.",
+    "thumbnail": "https://imangistudios.com/wp-content/uploads/2022/01/thumb-video-tr2.webp",
+    "page": "/games/temple-run-2.html",
+    "sourceUrl": "https://poki.com/en/g/temple-run-2"
+  }
+]
