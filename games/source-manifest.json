@@ -8,7 +8,8 @@
       "title": "Moto X3M",
       "category": "racing",
       "sourcePath": "/games/moto-x3m.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "title": "Smash Karts",
       "category": "racing",
       "sourcePath": "/games/smash-karts.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "title": "Bloxd.io",
       "category": "arcade",
       "sourcePath": "/games/bloxd-io.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 4,
@@ -32,7 +35,8 @@
       "title": "8 Ball Pool",
       "category": "sports",
       "sourcePath": "/games/8-ball-pool.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 5,
@@ -40,7 +44,8 @@
       "title": "Geometry Game",
       "category": "arcade",
       "sourcePath": "/games/geometry-game.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 6,
@@ -48,7 +53,8 @@
       "title": "Drift Hunters",
       "category": "racing",
       "sourcePath": "/games/drift-hunters.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 7,
@@ -56,7 +62,8 @@
       "title": "Fireboy and Watergirl: Forest Temple",
       "category": "puzzle",
       "sourcePath": "/games/fireboy-watergirl-forest-temple.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 8,
@@ -64,7 +71,8 @@
       "title": "Penalty Shooters 2",
       "category": "sports",
       "sourcePath": "/games/penalty-shooters-2.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 9,
@@ -72,7 +80,8 @@
       "title": "Vex 7",
       "category": "action",
       "sourcePath": "/games/vex-7.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 10,
@@ -80,7 +89,8 @@
       "title": "Level Devil",
       "category": "action",
       "sourcePath": "/games/level-devil.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 11,
@@ -88,7 +98,8 @@
       "title": "Slope",
       "category": "arcade",
       "sourcePath": "/games/slope.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 12,
@@ -96,7 +107,8 @@
       "title": "Stickman Hook",
       "category": "arcade",
       "sourcePath": "/games/stickman-hook.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 13,
@@ -104,7 +116,8 @@
       "title": "Subway Surfers",
       "category": "arcade",
       "sourcePath": "/games/subway-surfers.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 14,
@@ -112,7 +125,8 @@
       "title": "Slither.io",
       "category": "arcade",
       "sourcePath": "/games/slither-io.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 15,
@@ -120,7 +134,8 @@
       "title": "2048",
       "category": "puzzle",
       "sourcePath": "/games/2048.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 16,
@@ -128,7 +143,8 @@
       "title": "Agar.io",
       "category": "arcade",
       "sourcePath": "/games/agar-io.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 17,
@@ -136,7 +152,8 @@
       "title": "Paper.io 2",
       "category": "arcade",
       "sourcePath": "/games/paper-io-2.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 18,
@@ -144,7 +161,8 @@
       "title": "Monkey Mart",
       "category": "arcade",
       "sourcePath": "/games/monkey-mart.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 19,
@@ -152,7 +170,8 @@
       "title": "Drive Mad",
       "category": "racing",
       "sourcePath": "/games/drive-mad.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     },
     {
       "id": 20,
@@ -160,7 +179,9 @@
       "title": "Temple Run 2",
       "category": "arcade",
       "sourcePath": "/games/temple-run-2.html",
-      "status": "pending-transfer"
+      "status": "detail-page-migrated",
+      "playMode": "external-link"
     }
-  ]
+  ],
+  "note": "The 20 game detail pages and catalogue entries are migrated. Their gameplay still opens the original third-party game pages; game binaries were not copied or rehosted."
 }
