@@ -9,3 +9,7 @@ Production source: `main` branch on GitHub, deployed through Cloudflare Pages.
 
 ## Local preview
 Open `index.html` in a browser.
+
+
+## Game catalogue
+The homepage reads the verified game list from `games/games.json` and renders it with `assets/js/games.js`. Only games reviewed and approved for this project should be added to that catalogue.
