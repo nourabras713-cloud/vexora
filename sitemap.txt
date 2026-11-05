@@ -33,3 +33,4 @@ https://vexora-4tm.pages.dev/games/friday-night-funkin.html
 https://vexora-4tm.pages.dev/games/drift-boss.html
 https://vexora-4tm.pages.dev/games/polytrack.html
 https://vexora-4tm.pages.dev/games/crossy-road.html
+https://vexora-4tm.pages.dev/games/racing-limits.html
