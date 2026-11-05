@@ -683,6 +683,48 @@
       "videoId": "kibE48yZMa0",
       "videoCredit": "Run 3 Full Gameplay Walkthrough by GoGy Games (YouTube)",
       "developer": "Joseph Cloutier (player_03)"
+    },
+    {
+      "id": "cookie-clicker",
+      "title": "Cookie Clicker",
+      "seoTitle": "Cookie Clicker Online - Play the Free Idle Clicker Game | VEXORA",
+      "metaDescription": "Play Cookie Clicker online for free. Click the giant cookie, buy cursors and grandmas, unlock upgrades, build your cookie empire and learn beginner strategies.",
+      "keywords": [
+        "Cookie Clicker",
+        "Cookie Clicker online",
+        "play Cookie Clicker",
+        "Cookie Clicker game",
+        "Cookie Clicker unblocked",
+        "Cookie Clicker free",
+        "Cookie Clicker browser game",
+        "Cookie Clicker upgrades",
+        "Cookie Clicker strategy",
+        "Cookie Clicker guide",
+        "Cookie Clicker buildings",
+        "Cookie Clicker grandmas",
+        "Cookie Clicker golden cookies",
+        "idle clicker game",
+        "incremental game",
+        "clicking games online",
+        "free idle games",
+        "cookie making game",
+        "DashNet Cookie Clicker",
+        "Orteil Cookie Clicker"
+      ],
+      "category": "Strategy",
+      "description": "Play Cookie Clicker online for free. Click the giant cookie, earn cookies, purchase buildings and upgrades, and grow a bakery into an enormous automated cookie empire.",
+      "longDescription": "Cookie Clicker is the classic incremental idle game created by Orteil and published on DashNet. Start by clicking a giant cookie to earn your first cookies, then spend them on cursors, grandmas, farms, factories and other production buildings. Each purchase helps your bakery make cookies faster, while upgrades and achievements add long-term goals. This VEXORA page links directly to the official browser edition.",
+      "instructions": "Click or tap the giant cookie to make cookies. Use the store to purchase buildings that generate cookies automatically, then buy upgrades to improve production. Watch for Golden Cookies and read each upgrade description before spending. Open the Options menu on the official game page to review saving and export settings.",
+      "sourceUrl": "https://orteil.dashnet.org/cookieclicker/",
+      "repositoryUrl": "https://orteil.dashnet.org/cookieclicker/",
+      "sourceLabel": "DashNet (Official)",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "attribution": "Cookie Clicker was created by Orteil (Julien Thiennot) and is published on the web by DashNet. The official browser game is hosted at orteil.dashnet.org.",
+      "license": "Cookie Clicker, its code, artwork, music, name and trademarks belong to Orteil and their respective rights holders. VEXORA is an independent game directory and links to the official browser edition; it does not host, copy or redistribute the game.",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
+      "developer": "Orteil (Julien Thiennot)"
     }
   ]
 }

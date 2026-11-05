@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 23,
+  "total": 24,
   "games": [
     {
       "id": 1,
@@ -211,6 +211,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.coolmathgames.com/0-run-3"
+    },
+    {
+      "id": 24,
+      "slug": "cookie-clicker",
+      "title": "Cookie Clicker",
+      "category": "strategy",
+      "sourcePath": "/games/cookie-clicker.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://orteil.dashnet.org/cookieclicker/"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."

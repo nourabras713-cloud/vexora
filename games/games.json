@@ -205,5 +205,14 @@
     "thumbnail": "https://img.youtube.com/vi/kibE48yZMa0/hqdefault.jpg",
     "page": "/games/run-3.html",
     "sourceUrl": "https://www.coolmathgames.com/0-run-3"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "category": "strategy",
+    "description": "Play Cookie Clicker online for free. Click the giant cookie, earn cookies, purchase buildings and upgrades, and grow a bakery into an enormous automated cookie empire.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
+    "page": "/games/cookie-clicker.html",
+    "sourceUrl": "https://orteil.dashnet.org/cookieclicker/"
   }
 ]
