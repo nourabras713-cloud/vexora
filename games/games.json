@@ -394,5 +394,14 @@
     "thumbnail": "https://img.poki.com/cdn-cgi/image/quality%3D78%2Cwidth%3D600%2Cheight%3D600%2Cfit%3Dcover%2Cf%3Dauto/934bde36-a4a1-43d0-8b35-30f15feddbb4.png",
     "page": "/games/getaway-shootout.html",
     "sourceUrl": "https://poki.com/en/g/getaway-shootout"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "category": "Action",
+    "description": "Enter a fast-paced online FPS arena as an armed egg in Shell Shockers. Choose from seven weapon classes, battle real players, and compete in multiple multiplayer modes.",
+    "thumbnail": "https://coolgamesfree.org/data/image/game/shell-shockers-game-avata-at-coolgamesfree.org.jpg",
+    "page": "/games/shell-shockers.html",
+    "sourceUrl": "https://shellshock.io/"
   }
 ]
