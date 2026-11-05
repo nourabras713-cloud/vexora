@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 45,
+  "total": 46,
   "games": [
     {
       "id": 1,
@@ -451,6 +451,17 @@
       "playMode": "external-link",
       "sourceUrl": "https://shellshock.io/",
       "videoUrl": "https://www.youtube.com/watch?v=DjMhnNKdzBw"
+    },
+    {
+      "id": 46,
+      "slug": "krunker",
+      "title": "Krunker.io",
+      "category": "Action",
+      "sourcePath": "/games/krunker.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://krunker.io/",
+      "videoUrl": "https://www.youtube-nocookie.com/embed/I4jwatriPXA"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
