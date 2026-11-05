@@ -304,5 +304,14 @@
     "thumbnail": "https://imgs.crazygames.com/super-star-car_16x9/20250519082532/super-star-car_16x9-cover?fit=crop&height=630&metadata=none&quality=100&width=1200",
     "page": "/games/super-star-car.html",
     "sourceUrl": "https://www.crazygames.com/game/super-star-car"
+  },
+  {
+    "id": "highway-racer-2",
+    "title": "Highway Racer 2",
+    "category": "racing",
+    "description": "Dodge busy highway traffic, collect power-ups and race at high speed in Highway Racer 2. Explore six game modes, unlock and customize cars, upgrade performance and challenge other drivers online.",
+    "thumbnail": "https://imgs.crazygames.com/games/highway-racer-2/cover_16x9-1693297858485.png?height=3269&metadata=none&quality=60",
+    "page": "/games/highway-racer-2.html",
+    "sourceUrl": "https://www.crazygames.com/game/highway-racer-2"
   }
 ]
