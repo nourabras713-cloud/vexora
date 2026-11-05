@@ -349,13 +349,13 @@
     },
     {
       "id": 36,
-      "slug": "extreme-car-driving-simulator",
-      "title": "Extreme Car Driving Simulator",
+      "slug": "offroad-island",
+      "title": "Offroad Island",
       "category": "racing",
-      "sourcePath": "/games/extreme-car-driving-simulator.html",
+      "sourcePath": "/games/offroad-island.html",
       "status": "detail-page-migrated",
       "playMode": "external-link",
-      "sourceUrl": "https://www.y8.com/games/extreme_car_driving_simulator"
+      "sourceUrl": "https://www.crazygames.com/game/offroad-island"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
