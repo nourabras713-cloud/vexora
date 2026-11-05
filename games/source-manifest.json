@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 51,
+  "total": 52,
   "games": [
     {
       "id": 1,
@@ -514,6 +514,17 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://repuls.io/"
+    },
+    {
+      "id": 52,
+      "slug": "fields-of-fury",
+      "title": "Fields of Fury",
+      "category": "Action",
+      "sourcePath": "/games/fields-of-fury.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.fieldsoffury.io/",
+      "videoUrl": null
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
