@@ -1885,6 +1885,41 @@
         "browser action games",
         "docski"
       ]
+    },
+    {
+      "id": "fields-of-fury",
+      "title": "Fields of Fury",
+      "category": "Action",
+      "seoTitle": "Fields of Fury Online - Play Free WWII FPS | VEXORA",
+      "metaDescription": "Play Fields of Fury online for free. Join a WWII multiplayer FPS, choose your role, capture the flag and battle players in browser-based team combat.",
+      "keywords": [
+        "Fields of Fury",
+        "Fields of Fury online",
+        "play Fields of Fury",
+        "Fields of Fury game",
+        "WW2 FPS",
+        "WWII browser game",
+        "multiplayer FPS",
+        "capture the flag game",
+        "browser shooting games",
+        "free online FPS",
+        "Fields of Fury controls",
+        "Fields of Fury multiplayer"
+      ],
+      "description": "Play Fields of Fury, a WWII multiplayer browser FPS built around team combat and capture-the-flag battles.",
+      "longDescription": "Fields of Fury is a World War II themed multiplayer first-person shooter. Choose a combat role, move through trenches, forests and ruined villages, and work with your team to capture the opposing flag. The game is designed for browser play and uses keyboard and mouse controls for movement, aiming and shooting.",
+      "instructions": "WASD: move. Mouse: aim and shoot. Space: jump. Shift: sprint. R: reload. Use the on-screen controls and number keys for weapon selection where supported.",
+      "sourceUrl": "https://www.fieldsoffury.io/",
+      "repositoryUrl": "https://www.fieldsoffury.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Kiloo Games",
+      "attribution": "Fields of Fury was developed by Kiloo Games. VEXORA links to the official playable website.",
+      "license": "Game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://www.fieldsoffury.io/favicon.ico",
+      "videoUrl": null,
+      "videoCredit": null
     }
   ]
 }
