@@ -259,5 +259,14 @@
     "thumbnail": "https://img.youtube.com/vi/ss-g66r58yQ/hqdefault.jpg",
     "page": "/games/drift-boss.html",
     "sourceUrl": "https://www.crazygames.com/game/drift-boss"
+  },
+  {
+    "id": "polytrack",
+    "title": "PolyTrack",
+    "category": "racing",
+    "description": "Race through fast low-poly tracks in PolyTrack. Master loops, jumps and sharp turns, build custom courses and beat your best lap times.",
+    "thumbnail": "https://images.crazygames.com/polytrack/20230823093937/polytrack-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=800",
+    "page": "/games/polytrack.html",
+    "sourceUrl": "https://www.crazygames.com/game/polytrack"
   }
 ]

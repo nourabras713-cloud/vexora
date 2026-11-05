@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 29,
+  "total": 30,
   "games": [
     {
       "id": 1,
@@ -281,6 +281,17 @@
       "sourceUrl": "https://www.crazygames.com/game/drift-boss",
       "videoId": "ss-g66r58yQ",
       "videoUrl": "https://www.youtube.com/watch?v=ss-g66r58yQ"
+    },
+    {
+      "id": 30,
+      "slug": "polytrack",
+      "title": "PolyTrack",
+      "category": "racing",
+      "sourcePath": "/games/polytrack.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/polytrack",
+      "videoUrl": "https://www.youtube.com/results?search_query=PolyTrack+gameplay"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
