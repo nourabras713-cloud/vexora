@@ -606,6 +606,42 @@
       "thumbnail": "https://freewebgames.io/data/image/game/basket-random.jpg",
       "videoSearchUrl": "https://www.youtube.com/results?search_query=Basket+Random+official+gameplay",
       "videoCredit": "Gameplay videos are linked through YouTube search; VEXORA does not re-upload third-party footage."
+    },
+    {
+      "id": "electron-dash",
+      "title": "Electron Dash",
+      "seoTitle": "Electron Dash Online - Play Free Space Runner Game | VEXORA",
+      "metaDescription": "Play Electron Dash online for free. Run through a neon space tunnel, dodge lasers and collapsing tiles, jump gaps and collect hearts in this endless runner.",
+      "keywords": [
+        "Electron Dash",
+        "Electron Dash online",
+        "play Electron Dash",
+        "Electron Dash game",
+        "endless runner game",
+        "space runner",
+        "neon tunnel game",
+        "astronaut game",
+        "browser arcade games",
+        "free online games",
+        "Electron Dash gameplay",
+        "Electron Dash controls"
+      ],
+      "category": "Arcade",
+      "description": "Play Electron Dash online and survive a neon space tunnel. Dodge lasers, jump over gaps, avoid collapsing platforms and collect hearts to extend your run.",
+      "longDescription": "Electron Dash is an endless arcade runner set inside a rotating neon space tunnel. Your runner moves forward automatically while you steer across the curved floor and walls, jump over gaps, avoid lasers and unstable tiles, and collect hearts for extra lives. The goal is to survive as long as possible and beat your best score.",
+      "instructions": "Use the Left and Right Arrow keys or A and D to move across the tunnel. Press Up, W or Space to jump. Move early to avoid gaps and lasers, use the curved walls when the floor is unsafe, and collect hearts when the route is clear. On supported mobile devices, use the on-screen controls.",
+      "sourceUrl": "https://www.crazygames.com/game/electron-dash",
+      "repositoryUrl": "https://www.crazygames.com/game/electron-dash",
+      "sourceLabel": "CrazyGames",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "attribution": "Electron Dash is associated with MarketJS. The browser game page is hosted by CrazyGames.",
+      "license": "Electron Dash, its game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the CrazyGames game page and does not host or redistribute the game.",
+      "thumbnail": "https://img.youtube.com/vi/yGl1gDdYlF4/hqdefault.jpg",
+      "videoId": "yGl1gDdYlF4",
+      "videoCredit": "Electron Dash Gameplay by LastHeroesGameplays (YouTube, October 7, 2023)",
+      "developer": "MarketJS"
     }
   ]
 }

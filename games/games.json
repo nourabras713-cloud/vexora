@@ -187,5 +187,14 @@
     "thumbnail": "https://freewebgames.io/data/image/game/basket-random.jpg",
     "page": "/games/basket-random.html",
     "sourceUrl": "https://www.crazygames.com/game/basket-random"
+  },
+  {
+    "id": "electron-dash",
+    "title": "Electron Dash",
+    "category": "arcade",
+    "description": "Play Electron Dash online and survive a neon space tunnel. Dodge lasers, jump over gaps, avoid collapsing platforms and collect hearts to extend your run.",
+    "thumbnail": "https://img.youtube.com/vi/yGl1gDdYlF4/hqdefault.jpg",
+    "page": "/games/electron-dash.html",
+    "sourceUrl": "https://www.crazygames.com/game/electron-dash"
   }
 ]

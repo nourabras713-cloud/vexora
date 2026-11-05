@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 21,
+  "total": 22,
   "games": [
     {
       "id": 1,
@@ -191,6 +191,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/basket-random"
+    },
+    {
+      "id": 22,
+      "slug": "electron-dash",
+      "title": "Electron Dash",
+      "category": "arcade",
+      "sourcePath": "/games/electron-dash.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/electron-dash"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
