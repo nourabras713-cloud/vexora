@@ -35,3 +35,4 @@ https://vexora-4tm.pages.dev/games/polytrack.html
 https://vexora-4tm.pages.dev/games/crossy-road.html
 https://vexora-4tm.pages.dev/games/racing-limits.html
 https://vexora-4tm.pages.dev/games/rally-racer-dirt.html
+https://vexora-4tm.pages.dev/games/super-star-car.html
