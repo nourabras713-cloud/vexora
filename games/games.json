@@ -223,5 +223,14 @@
     "thumbnail": "https://img.youtube.com/vi/8yLBIcbmVCA/hqdefault.jpg",
     "page": "/games/little-alchemy-2.html",
     "sourceUrl": "https://littlealchemy2.com/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "puzzle",
+    "description": "Play the classic Tetris block puzzle online. Arrange falling Tetriminos, complete horizontal lines, build your score and challenge yourself to survive as the speed increases.",
+    "thumbnail": "https://img.youtube.com/vi/uccXwNSGDNU/hqdefault.jpg",
+    "page": "/games/tetris.html",
+    "sourceUrl": "https://play.tetris.com/games/"
   }
 ]

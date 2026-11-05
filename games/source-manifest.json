@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 25,
+  "total": 26,
   "games": [
     {
       "id": 1,
@@ -233,6 +233,18 @@
       "sourceUrl": "https://littlealchemy2.com/",
       "videoId": "8yLBIcbmVCA",
       "videoUrl": "https://www.youtube.com/watch?v=8yLBIcbmVCA"
+    },
+    {
+      "id": 26,
+      "slug": "tetris",
+      "title": "Tetris",
+      "category": "puzzle",
+      "sourcePath": "/games/tetris.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://play.tetris.com/games/",
+      "videoId": "uccXwNSGDNU",
+      "videoUrl": "https://www.youtube.com/watch?v=uccXwNSGDNU"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
