@@ -412,5 +412,14 @@
     "thumbnail": "https://img.youtube.com/vi/I4jwatriPXA/hqdefault.jpg",
     "page": "/games/krunker.html",
     "sourceUrl": "https://krunker.io/"
+  },
+  {
+    "id": "deadshot-io",
+    "title": "DEADSHOT.io",
+    "category": "Action",
+    "description": "Jump into DEADSHOT.io, a competitive multiplayer browser FPS with fast gunfights, weapon classes, tactical maps and several online game modes.",
+    "thumbnail": "https://www.addictinggames.com/sites/default/files/styles/game_image/public/2022-09/deadshotio.jpg",
+    "page": "/games/deadshot-io.html",
+    "sourceUrl": "https://deadshot.io/"
   }
 ]
