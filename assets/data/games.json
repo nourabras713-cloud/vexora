@@ -1499,6 +1499,49 @@
         "play shooting games online",
         "funny 2 player games"
       ]
+    },
+    {
+      "id": "time-shooter-2",
+      "title": "Time Shooter 2",
+      "category": "Action",
+      "description": "Play Time Shooter 2 online, a tactical 3D FPS where time moves only when you move. Dodge bullets in slow motion, grab weapons and clear every enemy-filled room.",
+      "longDescription": "Time Shooter 2 is a first-person shooter from GoGoMan built around a clever rule: the world moves when you move. Stand still to slow the action and study incoming bullets, then move carefully to dodge, collect weapons and eliminate enemies. Its clean low-poly arenas, varied weapons and tactical pacing turn each encounter into a short combat puzzle.",
+      "instructions": "WASD or Arrow Keys: move. Mouse: look and aim. Left-click: pick up a weapon or shoot. Right-click or R: throw your current weapon. Plan each movement carefully because time advances as you move.",
+      "sourceUrl": "https://www.crazygames.com/game/time-shooter-2",
+      "repositoryUrl": "https://www.crazygames.com/game/time-shooter-2",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "GoGoMan",
+      "attribution": "Time Shooter 2 was developed by GoGoMan and is listed for browser play on CrazyGames.",
+      "license": "Game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the original CrazyGames game page and does not host or redistribute the game files.",
+      "thumbnail": "https://imgs.crazygames.com/time-shooter-2_16x9/20241113040556/time-shooter-2_16x9-cover?fit=crop&height=630&metadata=none&quality=100&width=1200",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "Time Shooter 2 Online - Play Free Slow Motion FPS | VEXORA",
+      "metaDescription": "Play Time Shooter 2 online for free. Master slow-motion FPS combat, dodge bullets, collect guns and defeat enemies in this unique browser shooting game by GoGoMan.",
+      "keywords": [
+        "Time Shooter 2",
+        "Time Shooter 2 online",
+        "play Time Shooter 2",
+        "Time Shooter 2 game",
+        "Time Shooter 2 CrazyGames",
+        "Time Shooter 2 gameplay",
+        "Time Shooter 2 unblocked",
+        "slow motion shooting game",
+        "bullet time FPS",
+        "time control shooter",
+        "3D browser shooting games",
+        "first person shooter online",
+        "GoGoMan games",
+        "free FPS browser game",
+        "dodge bullets game",
+        "SuperHot style game",
+        "weapon pickup shooter",
+        "Unity WebGL FPS",
+        "online action games",
+        "shooting games for PC"
+      ]
     }
   ]
 }
