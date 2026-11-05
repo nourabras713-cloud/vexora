@@ -1995,6 +1995,46 @@
       "thumbnail": "https://lobbystrike.com/assets/img/ui-menu.webp",
       "videoUrl": null,
       "videoCredit": null
+    },
+    {
+      "id": "kirka-io",
+      "title": "Kirka.io",
+      "category": "Action",
+      "description": "Play Kirka.io, a voxel-style multiplayer browser FPS with team battles, free-for-all, objective modes, clans and customizable weapons.",
+      "longDescription": "Kirka.io is a multiplayer first-person shooter set in a blocky voxel world. Join public matches, choose a weapon loadout and compete in solo or team-based combat. The game features modes such as Team Deathmatch, Free-for-All, objective battles and Parkour, alongside clans, player progression, cosmetic rewards and a map editor. It runs in a web browser without a separate download. VEXORA links to the official Kirka.io website and does not host or redistribute the game.",
+      "instructions": "W / A / S / D: move. Mouse: look and aim. Left mouse button: shoot. Right mouse button: aim down sights. Space: jump. Shift: crouch. E: dash. R: reload. 1 / 2 / 3: switch weapons. Enter: chat. Tab: view scores. Controls can be changed in Settings.",
+      "sourceUrl": "https://kirka.io/",
+      "repositoryUrl": "https://kirka.io/",
+      "sourceLabel": "Official Kirka.io",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Pierre-Éli Normandeau",
+      "attribution": "Kirka.io is developed by Pierre-Éli Normandeau. Official website: https://kirka.io/. The official community is available through the Kirka.io Discord server.",
+      "license": "Kirka.io game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official playable website and does not host or redistribute game files.",
+      "thumbnail": "https://kotaku.com/igdb/image/upload/t_720p/scux6a.jpg",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "Kirka.io Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play Kirka.io online for free. Join voxel-style FPS battles, choose weapons, dash through arenas and compete in Team Deathmatch, Free-for-All and objective modes.",
+      "keywords": [
+        "Kirka.io",
+        "Kirka io online",
+        "play Kirka.io",
+        "Kirka.io game",
+        "Kirka FPS",
+        "Kirka multiplayer",
+        "Kirka gameplay",
+        "Kirka controls",
+        "voxel FPS",
+        "browser FPS",
+        "free online shooting games",
+        "multiplayer shooter",
+        "Team Deathmatch",
+        "Free for All shooter",
+        "online action games",
+        "browser shooting games"
+      ]
     }
   ]
 }
