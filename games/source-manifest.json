@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 49,
+  "total": 50,
   "games": [
     {
       "id": 1,
@@ -494,6 +494,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://venge.io/"
+    },
+    {
+      "id": 50,
+      "slug": "combat-reloaded",
+      "title": "Combat Reloaded",
+      "category": "Action",
+      "sourcePath": "/games/combat-reloaded.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://nadgames.com/combat_reloaded"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
