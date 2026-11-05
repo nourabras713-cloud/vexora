@@ -57,3 +57,8 @@ https://vexora-4tm.pages.dev/games/fields-of-fury.html
 https://vexora-4tm.pages.dev/games/gobattle-io.html
 https://vexora-4tm.pages.dev/games/lobbystrike.html
 https://vexora-4tm.pages.dev/games/kour-io.html
+https://vexora-4tm.pages.dev/games/soccer-random.html
+https://vexora-4tm.pages.dev/games/snow-rider-3d.html
+https://vexora-4tm.pages.dev/games/basketball-superstars.html
+https://vexora-4tm.pages.dev/games/eggy-car.html
+https://vexora-4tm.pages.dev/games/helix-jump.html
