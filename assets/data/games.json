@@ -1920,6 +1920,42 @@
       "thumbnail": "https://www.fieldsoffury.io/favicon.ico",
       "videoUrl": null,
       "videoCredit": null
+    },
+    {
+      "id": "gobattle-io",
+      "title": "GoBattle.io",
+      "category": "Action",
+      "seoTitle": "GoBattle.io Online - Play Free Multiplayer RPG | VEXORA",
+      "metaDescription": "Play GoBattle.io online for free. Explore Valdoran, battle monsters and players, conquer dungeons, and compete in Battle Royale and ranked PvP modes.",
+      "keywords": [
+        "GoBattle.io",
+        "GoBattle.io online",
+        "play GoBattle.io",
+        "GoBattle game",
+        "free browser RPG",
+        "multiplayer action RPG",
+        "pixel art RPG",
+        "browser dungeon crawler",
+        "online battle royale game",
+        "ranked PvP browser game",
+        "medieval multiplayer game",
+        "GoBattle.io controls"
+      ],
+      "description": "Explore Valdoran in GoBattle.io, a free pixel-art multiplayer action RPG with dungeons, monsters, Battle Royale and ranked PvP.",
+      "longDescription": "GoBattle.io is a free multiplayer pixel-art action RPG set in the kingdom of Valdoran. Explore dungeons, fight monsters and bosses, develop your hero, and meet other players in several competitive modes. You can enter King Mode, Battle Royale, Damageball or ranked 1v1 PvP, or team up with friends for dungeon adventures. The game runs in a web browser on desktop and mobile, with no download required.",
+      "instructions": "Move and jump with WASD or the Arrow Keys. Press Space to attack with your primary weapon and V for your secondary weapon. Press C or Q to switch weapons. Use E, R, T, Y and U for item slots. Press I for inventory, P for professions, M for the map, L for friends, and Enter to chat.",
+      "sourceUrl": "https://gobattle.io/",
+      "repositoryUrl": "https://gobattle.io/",
+      "sourceLabel": "Official GoBattle.io",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Shinobit LLC",
+      "attribution": "GoBattle.io is developed by Shinobit LLC. VEXORA links to the official playable website.",
+      "license": "Game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://alpha.gobattle.io/images/loading/shot-lava-v2.webp",
+      "videoUrl": null,
+      "videoCredit": null
     }
   ]
 }
