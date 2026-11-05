@@ -1857,8 +1857,8 @@
       "instructions": "W / A / S / D or arrow keys: move. Mouse: aim and shoot. Space: jump. R: reload. Shift or C: crouch. B: emote. F: inspect weapon. 1, 2, 3: switch weapons. Mobile and tablet players can use on-screen touch controls.",
       "sourceUrl": "https://kour.io/",
       "repositoryUrl": "https://kour.io/",
-      "playMode": "external",
-      "embedUrl": null,
+      "playMode": "embed",
+      "embedUrl": "https://www.miniplay.com/embed/kour.io",
       "aspectRatio": "16 / 9",
       "developer": "Legion Platforms",
       "attribution": "Kour.io was developed by Legion Platforms.",
@@ -1886,7 +1886,8 @@
         "hardpoint",
         "browser shooting games"
       ],
-      "openInSameTab": true
+      "openInSameTab": true,
+      "sourceLabel": "Miniplay embedded player"
     }
   ]
 }
