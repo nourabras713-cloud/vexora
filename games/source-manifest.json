@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 30,
+  "total": 31,
   "games": [
     {
       "id": 1,
@@ -292,6 +292,18 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/polytrack",
       "videoUrl": "https://www.youtube.com/results?search_query=PolyTrack+gameplay"
+    },
+    {
+      "id": 31,
+      "slug": "crossy-road",
+      "title": "Crossy Road",
+      "category": "arcade",
+      "sourcePath": "/games/crossy-road.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://poki.com/en/g/crossy-road",
+      "videoId": "dn2s8Jq_P1U",
+      "videoUrl": "https://www.youtube.com/watch?v=dn2s8Jq_P1U"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
