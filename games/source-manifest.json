@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 46,
+  "total": 47,
   "games": [
     {
       "id": 1,
@@ -462,6 +462,17 @@
       "playMode": "external-link",
       "sourceUrl": "https://krunker.io/",
       "videoUrl": "https://www.youtube-nocookie.com/embed/I4jwatriPXA"
+    },
+    {
+      "id": 47,
+      "slug": "deadshot-io",
+      "title": "DEADSHOT.io",
+      "category": "Action",
+      "sourcePath": "/games/deadshot-io.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://deadshot.io/",
+      "videoUrl": null
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
