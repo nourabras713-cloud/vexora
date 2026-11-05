@@ -1808,6 +1808,45 @@
         "PlayCanvas shooter",
         "Venge.io skill cards"
       ]
+    },
+    {
+      "id": "combat-reloaded",
+      "title": "Combat Reloaded",
+      "category": "Action",
+      "description": "Play Combat Reloaded online, a multiplayer browser FPS by NadGames. Join team deathmatch and free-for-all battles, choose weapons and fight across 3D arenas.",
+      "longDescription": "Combat Reloaded is a browser-based multiplayer first-person shooter developed by NadGames. Enter online rooms, choose your weapons and compete in fast arena battles. Its straightforward controls and familiar FPS format reward aim, movement and map awareness.",
+      "instructions": "W / A / S / D: move. Mouse: aim and shoot. Left mouse button: fire. Space: jump. Shift: sprint. C: crouch. R: reload. Use number keys to switch weapons. Controls can vary by game mode and version.",
+      "sourceUrl": "https://nadgames.com/combat_reloaded",
+      "repositoryUrl": "https://nadgames.com/combat_reloaded",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "NadGames",
+      "attribution": "Combat Reloaded is developed by NadGames. Official game page: NadGames.",
+      "license": "Game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official game page and does not host or redistribute the game.",
+      "thumbnail": "https://imgs2.dab3games.com/combat-online13.png",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "Combat Reloaded Online - Play Free FPS | VEXORA",
+      "metaDescription": "Play Combat Reloaded online, a multiplayer browser FPS by NadGames. Join team deathmatch and free-for-all battles, choose weapons and fight across 3D arenas.",
+      "keywords": [
+        "Combat Reloaded",
+        "Combat Reloaded online",
+        "play Combat Reloaded",
+        "Combat Reloaded game",
+        "Combat Reloaded gameplay",
+        "Combat Reloaded controls",
+        "Combat Reloaded FPS",
+        "NadGames",
+        "browser FPS",
+        "multiplayer shooter",
+        "online shooting games",
+        "first person shooter online",
+        "WebGL FPS",
+        "team deathmatch",
+        "free for all shooter",
+        "free browser games"
+      ]
     }
   ]
 }
