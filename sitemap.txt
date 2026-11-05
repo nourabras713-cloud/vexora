@@ -56,3 +56,4 @@ https://vexora-4tm.pages.dev/games/repuls-io.html
 https://vexora-4tm.pages.dev/games/fields-of-fury.html
 https://vexora-4tm.pages.dev/games/gobattle-io.html
 https://vexora-4tm.pages.dev/games/lobbystrike.html
+https://vexora-4tm.pages.dev/games/kirka-io.html
