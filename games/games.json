@@ -250,5 +250,14 @@
     "thumbnail": "https://img.youtube.com/vi/uEHt29gzgtI/hqdefault.jpg",
     "page": "/games/friday-night-funkin.html",
     "sourceUrl": "https://www.newgrounds.com/portal/view/770371"
+  },
+  {
+    "id": "drift-boss",
+    "title": "Drift Boss",
+    "category": "racing",
+    "description": "Play Drift Boss, the addictive one-button drifting game. Time every turn, stay on the narrow track, collect coins and beat your best distance.",
+    "thumbnail": "https://img.youtube.com/vi/ss-g66r58yQ/hqdefault.jpg",
+    "page": "/games/drift-boss.html",
+    "sourceUrl": "https://www.crazygames.com/game/drift-boss"
   }
 ]
