@@ -439,5 +439,14 @@
     "thumbnail": "https://forum-files-playcanvas-com.s3.dualstack.eu-west-1.amazonaws.com/optimized/2X/a/a9e120f4a24fc6950993c2975d5c2f67d293dbcd_2_690x384.jpeg",
     "page": "/games/venge-io.html",
     "sourceUrl": "https://venge.io/"
+  },
+  {
+    "id": "combat-reloaded",
+    "title": "Combat Reloaded",
+    "category": "Action",
+    "description": "Play Combat Reloaded online, a multiplayer browser FPS by NadGames. Join team deathmatch and free-for-all battles, choose weapons and fight across 3D arenas.",
+    "thumbnail": "https://imgs2.dab3games.com/combat-online13.png",
+    "page": "/games/combat-reloaded.html",
+    "sourceUrl": "https://nadgames.com/combat_reloaded"
   }
 ]
