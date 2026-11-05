@@ -35,10 +35,12 @@
     const toolbarLabel = stage.closest(".player-panel")?.querySelector(".player-toolbar span:last-child");
     if (toolbarLabel) toolbarLabel.textContent = "Opens on " + sourceLabel;
     let embedSrc = null;
-    if (game.playMode === "embed" && typeof game.embedUrl === "string" && /^(?:assets|games)\/[a-zA-Z0-9_./-]+$/.test(game.embedUrl)) {
+    if (game.playMode === "embed" && typeof game.embedUrl === "string") {
       try {
         const resolved = new URL(game.embedUrl, document.baseURI);
-        if (resolved.origin === window.location.origin) embedSrc = resolved.href;
+        const localEmbed = resolved.origin === window.location.origin && /^(?:assets|games)\/[a-zA-Z0-9_./-]+$/.test(game.embedUrl);
+        const approvedExternalEmbed = resolved.protocol === "https:" && resolved.hostname === "www.miniplay.com" && resolved.pathname === "/embed/kour.io";
+        if (localEmbed || approvedExternalEmbed) embedSrc = resolved.href;
       } catch (_) {}
     }
     openButton.hidden = true;
@@ -47,10 +49,14 @@
       frame.src = embedSrc;
       frame.title = game.title + " game";
       frame.loading = "eager";
-      frame.allow = "fullscreen; gamepad; autoplay";
+      frame.allow = "fullscreen; gamepad; autoplay; accelerometer; gyroscope; clipboard-read; clipboard-write; web-share";
       frame.allowFullscreen = true;
       frame.referrerPolicy = "strict-origin-when-cross-origin";
-      frame.setAttribute("sandbox", "allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-popups");
+      frame.style.width = "100%";
+      frame.style.height = "100%";
+      frame.style.minHeight = "620px";
+      frame.style.border = "0";
+      if (new URL(embedSrc).hostname === window.location.hostname) frame.setAttribute("sandbox", "allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-popups");
       frame.style.minHeight = "0";
       if (game.aspectRatio) stage.style.aspectRatio = game.aspectRatio;
       if (game.aspectRatio === "2 / 3") {
