@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 44,
+  "total": 45,
   "games": [
     {
       "id": 1,
@@ -440,6 +440,17 @@
       "playMode": "external-link",
       "sourceUrl": "https://poki.com/en/g/getaway-shootout",
       "videoUrl": "https://www.y8.com/animation/getaway_shootout_walkthrough"
+    },
+    {
+      "id": 45,
+      "slug": "shell-shockers",
+      "title": "Shell Shockers",
+      "category": "Action",
+      "sourcePath": "/games/shell-shockers.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://shellshock.io/",
+      "videoUrl": "https://www.youtube.com/watch?v=DjMhnNKdzBw"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
