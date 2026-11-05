@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 35,
+  "total": 36,
   "games": [
     {
       "id": 1,
@@ -346,6 +346,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/highway-racer-2"
+    },
+    {
+      "id": 36,
+      "slug": "extreme-car-driving-simulator",
+      "title": "Extreme Car Driving Simulator",
+      "category": "racing",
+      "sourcePath": "/games/extreme-car-driving-simulator.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.y8.com/games/extreme_car_driving_simulator"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
