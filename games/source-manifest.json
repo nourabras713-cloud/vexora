@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 52,
+  "total": 53,
   "games": [
     {
       "id": 1,
@@ -525,6 +525,16 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.fieldsoffury.io/",
       "videoUrl": null
+    },
+    {
+      "id": 53,
+      "slug": "gobattle-io",
+      "title": "GoBattle.io",
+      "category": "action",
+      "sourcePath": "/games/gobattle-io.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://gobattle.io/"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
