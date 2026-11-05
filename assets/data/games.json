@@ -998,7 +998,7 @@
       "aspectRatio": "16 / 9",
       "attribution": "PolyTrack was created by Kodub. The game is hosted by CrazyGames; VEXORA is an independent directory and does not host or redistribute the game.",
       "license": "PolyTrack and its artwork belong to their respective rights holders. VEXORA is not affiliated with Kodub or CrazyGames. The Play Now button opens the game on CrazyGames.",
-      "thumbnail": "https://imgs.crazygames.com/polytrack_1x1/20260310095956/polytrack_1x1-cover?format=auto&metadata=none&quality=100&width=1200",
+      "thumbnail": "https://freewebgames.io/data/image/game/polytrack.jpg",
       "developer": "Kodub",
       "videoUrl": "https://www.youtube.com/results?search_query=PolyTrack+gameplay",
       "videoTitle": "PolyTrack Gameplay Videos"
@@ -1104,7 +1104,7 @@
       "playMode": "external",
       "embedUrl": null,
       "aspectRatio": "16 / 9",
-      "thumbnail": "https://images.crazygames.com/rally-racer-dirt/20231120120839/rally-racer-dirt-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=800",
+      "thumbnail": "https://a.silvergames.com/screenshots/rally-racer-dirt/3_gameplay.jpg",
       "developer": "Valvolex",
       "videoUrl": "https://www.youtube.com/results?search_query=Rally+Racer+Dirt+gameplay",
       "attribution": "Rally Racer Dirt is developed by Valvolex. VEXORA links to the original browser game on CrazyGames.",
@@ -1917,7 +1917,7 @@
       "developer": "Kiloo Games",
       "attribution": "Fields of Fury was developed by Kiloo Games. VEXORA links to the official playable website.",
       "license": "Game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
-      "thumbnail": "https://w8.snokido.com/img/large/fields-of-fury.jpg",
+      "thumbnail": "https://dev.playcanvas.com/assets/images/projects/banners/project--fieldsoffury-desktop.jpg",
       "videoUrl": null,
       "videoCredit": null
     },
