@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 38,
+  "total": 39,
   "games": [
     {
       "id": 1,
@@ -377,6 +377,16 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/burnout-drift-seaport-max",
       "videoId": "bainIBr7Cyg"
+    },
+    {
+      "id": 39,
+      "slug": "evo-f3",
+      "title": "Evo-F3",
+      "category": "racing",
+      "sourcePath": "/games/evo-f3.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.pacogames.com/driving/evo-f3"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
