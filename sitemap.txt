@@ -55,3 +55,4 @@ https://vexora-4tm.pages.dev/games/combat-reloaded.html
 https://vexora-4tm.pages.dev/games/repuls-io.html
 https://vexora-4tm.pages.dev/games/fields-of-fury.html
 https://vexora-4tm.pages.dev/games/gobattle-io.html
+https://vexora-4tm.pages.dev/games/lobbystrike.html
