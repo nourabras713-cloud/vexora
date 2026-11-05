@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 43,
+  "total": 44,
   "games": [
     {
       "id": 1,
@@ -429,6 +429,17 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/time-shooter-2"
+    },
+    {
+      "id": 44,
+      "slug": "getaway-shootout",
+      "title": "Getaway Shootout",
+      "category": "action",
+      "sourcePath": "/games/getaway-shootout.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://poki.com/en/g/getaway-shootout",
+      "videoUrl": "https://www.y8.com/animation/getaway_shootout_walkthrough"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
