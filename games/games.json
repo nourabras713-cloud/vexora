@@ -403,5 +403,14 @@
     "thumbnail": "https://coolgamesfree.org/data/image/game/shell-shockers-game-avata-at-coolgamesfree.org.jpg",
     "page": "/games/shell-shockers.html",
     "sourceUrl": "https://shellshock.io/"
+  },
+  {
+    "id": "krunker",
+    "title": "Krunker.io",
+    "category": "Action",
+    "description": "Jump into Krunker.io, a fast-paced multiplayer first-person shooter. Battle players worldwide, master slide hopping, choose classes and weapons, and explore competitive and community game modes.",
+    "thumbnail": "https://img.youtube.com/vi/I4jwatriPXA/hqdefault.jpg",
+    "page": "/games/krunker.html",
+    "sourceUrl": "https://krunker.io/"
   }
 ]
