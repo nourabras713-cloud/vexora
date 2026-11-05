@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 40,
+  "total": 41,
   "games": [
     {
       "id": 1,
@@ -398,6 +398,18 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/sky-riders-buk",
       "videoId": "T96uletR2DI"
+    },
+    {
+      "id": 41,
+      "slug": "ragdoll-archers",
+      "title": "Ragdoll Archers",
+      "category": "action",
+      "sourcePath": "/games/ragdoll-archers.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/ragdoll-archers",
+      "videoId": "lo9eX0T6bi4",
+      "videoUrl": "https://www.youtube.com/watch?v=lo9eX0T6bi4"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
