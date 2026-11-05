@@ -178,5 +178,14 @@
     "thumbnail": "https://imangistudios.com/wp-content/uploads/2022/01/thumb-video-tr2.webp",
     "page": "/games/temple-run-2.html",
     "sourceUrl": "https://poki.com/en/g/temple-run-2"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "category": "sports",
+    "description": "Play Basket Random online in a funny physics basketball match. Challenge the CPU or a friend, adapt to changing courts and try to score five points first.",
+    "thumbnail": "https://freewebgames.io/data/image/game/basket-random.jpg",
+    "page": "/games/basket-random.html",
+    "sourceUrl": "https://www.crazygames.com/game/basket-random"
   }
 ]

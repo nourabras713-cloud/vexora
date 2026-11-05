@@ -22,3 +22,4 @@ https://vexora-4tm.pages.dev/games/paper-io-2.html
 https://vexora-4tm.pages.dev/games/monkey-mart.html
 https://vexora-4tm.pages.dev/games/drive-mad.html
 https://vexora-4tm.pages.dev/games/temple-run-2.html
+https://vexora-4tm.pages.dev/games/basket-random.html

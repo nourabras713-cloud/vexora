@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 20,
+  "total": 21,
   "games": [
     {
       "id": 1,
@@ -181,7 +181,17 @@
       "sourcePath": "/games/temple-run-2.html",
       "status": "detail-page-migrated",
       "playMode": "external-link"
+    },
+    {
+      "id": 21,
+      "slug": "basket-random",
+      "title": "Basket Random",
+      "category": "sports",
+      "sourcePath": "/games/basket-random.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/basket-random"
     }
   ],
-  "note": "The 20 game detail pages and catalogue entries are migrated. Their gameplay still opens the original third-party game pages; game binaries were not copied or rehosted."
+  "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
 }

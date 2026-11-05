@@ -570,6 +570,42 @@
         "Poki games"
       ],
       "developer": "Imangi Studios"
+    },
+    {
+      "id": "basket-random",
+      "title": "Basket Random",
+      "seoTitle": "Basket Random Online - Play Free 2 Player Basketball Game | VEXORA",
+      "metaDescription": "Play Basket Random online for free. Enjoy funny ragdoll basketball, unpredictable courts and 1 or 2 player matches. Learn the controls and winning tips.",
+      "keywords": [
+        "Basket Random",
+        "Basket Random online",
+        "play Basket Random",
+        "Basket Random game",
+        "free basketball games",
+        "2 player basketball games",
+        "2 player games online",
+        "ragdoll basketball",
+        "physics basketball game",
+        "browser sports games",
+        "basketball games online",
+        "Basket Random controls",
+        "Basket Random gameplay"
+      ],
+      "category": "Sports",
+      "description": "Play Basket Random online in a funny physics basketball match. Challenge the CPU or a friend, adapt to changing courts and try to score five points first.",
+      "longDescription": "Basket Random is a physics-based arcade basketball game developed by RHM Interactive. Play alone against the CPU or locally with a friend using one key per player. Courts, players and ball behaviour can change between rounds, and the first side to score five points wins.",
+      "instructions": "Player 1 uses W and Player 2 uses the Up Arrow key. Time your jumps and actions to reach the ball and send it toward the opponent's hoop. On mobile, use the on-screen touch controls.",
+      "sourceUrl": "https://www.crazygames.com/game/basket-random",
+      "repositoryUrl": "https://www.crazygames.com/game/basket-random",
+      "sourceLabel": "CrazyGames",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "attribution": "Basket Random is developed by RHM Interactive. The browser game page is hosted by CrazyGames.",
+      "license": "Game, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the original CrazyGames page and does not host or redistribute the game.",
+      "thumbnail": "https://freewebgames.io/data/image/game/basket-random.jpg",
+      "videoSearchUrl": "https://www.youtube.com/results?search_query=Basket+Random+official+gameplay",
+      "videoCredit": "Gameplay videos are linked through YouTube search; VEXORA does not re-upload third-party footage."
     }
   ]
 }
