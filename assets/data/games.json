@@ -1717,6 +1717,52 @@
         "free online shooting game",
         "Deadshot mobile game"
       ]
+    },
+    {
+      "id": "war-brokers",
+      "title": "War Brokers",
+      "category": "Action",
+      "description": "Enter War Brokers, a free browser-based multiplayer FPS featuring infantry combat, tanks, helicopters, APCs and fast team battles across several game modes.",
+      "longDescription": "War Brokers is a browser-based multiplayer first-person shooter built around team combat and combined-arms action. Fight on foot, drive armored vehicles, pilot helicopters and take part in several online modes. The official website hosts the playable game directly in a modern browser.",
+      "instructions": "WASD: move. Mouse: aim. Left mouse: fire. Right mouse: zoom. Space: jump. C: crouch. Left Ctrl: toggle sprint. F: enter or exit vehicles and interact with objectives. R: reload. 1–7: select weapons and equipment. M: open the main menu.",
+      "sourceUrl": "https://warbrokers.io/",
+      "repositoryUrl": "https://warbrokers.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Trebuchet Entertainment LLC (Warbrokers)",
+      "attribution": "War Brokers is developed by Trebuchet Entertainment LLC and is available on its official website.",
+      "license": "All game code, artwork, names and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750470/ss_ec37894b75841aec97969ae5ebeae9a0417aa343.1920x1080.jpg?t=1616476404",
+      "videoUrl": "https://www.youtube-nocookie.com/embed/bhsimx6uXyU",
+      "videoCredit": "WarBrokers Official Beta Trailer by War Brokers",
+      "seoTitle": "War Brokers Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play War Brokers online for free. This browser FPS features multiplayer team battles, Battle Royale, tanks, helicopters, APCs, weapons and tactical maps. No download required.",
+      "keywords": [
+        "War Brokers",
+        "War Brokers online",
+        "play War Brokers",
+        "War Brokers game",
+        "War Brokers FPS",
+        "War Brokers browser game",
+        "War Brokers multiplayer",
+        "War Brokers Battle Royale",
+        "War Brokers gameplay",
+        "War Brokers tanks",
+        "War Brokers helicopters",
+        "War Brokers vehicles",
+        "War Brokers weapons",
+        "War Brokers maps",
+        "free online FPS",
+        "browser shooting games",
+        "multiplayer shooter",
+        "online war games",
+        "first person shooter browser",
+        "Team Deathmatch online",
+        "Battle Royale browser game",
+        "War Brokers controls",
+        "War Brokers no download"
+      ]
     }
   ]
 }

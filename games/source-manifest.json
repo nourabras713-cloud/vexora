@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 47,
+  "total": 48,
   "games": [
     {
       "id": 1,
@@ -473,6 +473,17 @@
       "playMode": "external-link",
       "sourceUrl": "https://deadshot.io/",
       "videoUrl": null
+    },
+    {
+      "id": 48,
+      "slug": "war-brokers",
+      "title": "War Brokers",
+      "category": "Action",
+      "sourcePath": "/games/war-brokers.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://warbrokers.io/",
+      "videoUrl": "https://www.youtube-nocookie.com/embed/bhsimx6uXyU"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."

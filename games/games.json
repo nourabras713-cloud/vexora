@@ -421,5 +421,14 @@
     "thumbnail": "https://onlivesoft.com/apps/images/1000/607/0.jpg",
     "page": "/games/deadshot-io.html",
     "sourceUrl": "https://deadshot.io/"
+  },
+  {
+    "id": "war-brokers",
+    "title": "War Brokers",
+    "category": "Action",
+    "description": "Enter War Brokers, a free browser-based multiplayer FPS featuring infantry combat, tanks, helicopters, APCs and fast team battles across several game modes.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750470/ss_ec37894b75841aec97969ae5ebeae9a0417aa343.1920x1080.jpg?t=1616476404",
+    "page": "/games/war-brokers.html",
+    "sourceUrl": "https://warbrokers.io/"
   }
 ]
