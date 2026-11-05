@@ -268,5 +268,14 @@
     "thumbnail": "https://images.crazygames.com/polytrack/20230823093937/polytrack-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=800",
     "page": "/games/polytrack.html",
     "sourceUrl": "https://www.crazygames.com/game/polytrack"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "category": "arcade",
+    "description": "Hop across busy roads, dodge cars and trains, cross rivers on moving logs and collect coins in the endless arcade hit Crossy Road.",
+    "thumbnail": "https://img.youtube.com/vi/dn2s8Jq_P1U/hqdefault.jpg",
+    "page": "/games/crossy-road.html",
+    "sourceUrl": "https://poki.com/en/g/crossy-road"
   }
 ]
