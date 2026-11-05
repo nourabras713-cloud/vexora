@@ -50,3 +50,4 @@ https://vexora-4tm.pages.dev/games/shell-shockers.html
 https://vexora-4tm.pages.dev/games/krunker.html
 https://vexora-4tm.pages.dev/games/deadshot-io.html
 https://vexora-4tm.pages.dev/games/war-brokers.html
+https://vexora-4tm.pages.dev/games/venge-io.html

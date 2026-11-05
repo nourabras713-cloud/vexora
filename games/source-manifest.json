@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 48,
+  "total": 49,
   "games": [
     {
       "id": 1,
@@ -484,6 +484,16 @@
       "playMode": "external-link",
       "sourceUrl": "https://warbrokers.io/",
       "videoUrl": "https://www.youtube-nocookie.com/embed/bhsimx6uXyU"
+    },
+    {
+      "id": 49,
+      "slug": "venge-io",
+      "title": "Venge.io",
+      "category": "Action",
+      "sourcePath": "/games/venge-io.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://venge.io/"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."

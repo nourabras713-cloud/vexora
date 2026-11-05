@@ -430,5 +430,14 @@
     "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750470/ss_ec37894b75841aec97969ae5ebeae9a0417aa343.1920x1080.jpg?t=1616476404",
     "page": "/games/war-brokers.html",
     "sourceUrl": "https://warbrokers.io/"
+  },
+  {
+    "id": "venge-io",
+    "title": "Venge.io",
+    "category": "Action",
+    "description": "Play Venge.io, a free browser-based multiplayer FPS with unique heroes, weapon loadouts, special abilities and objective-focused arena battles.",
+    "thumbnail": "https://forum-files-playcanvas-com.s3.dualstack.eu-west-1.amazonaws.com/optimized/2X/a/a9e120f4a24fc6950993c2975d5c2f67d293dbcd_2_690x384.jpeg",
+    "page": "/games/venge-io.html",
+    "sourceUrl": "https://venge.io/"
   }
 ]

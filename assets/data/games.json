@@ -1763,6 +1763,51 @@
         "War Brokers controls",
         "War Brokers no download"
       ]
+    },
+    {
+      "id": "venge-io",
+      "title": "Venge.io",
+      "category": "Action",
+      "description": "Play Venge.io, a free browser-based multiplayer FPS with unique heroes, weapon loadouts, special abilities and objective-focused arena battles.",
+      "longDescription": "Venge.io is a fast-paced, objective-based multiplayer first-person shooter that runs in a web browser. Choose a hero, select weapons and abilities, then compete with players around the world. Capturing marked areas and completing match objectives earns advantages such as skill cards.",
+      "instructions": "W / A / S / D: move. Mouse: aim and shoot. 1–9: change weapon. F: use ability. Space: jump. E: melee attack. Hold B: turn skill cards. Controls can be adjusted in the game settings.",
+      "sourceUrl": "https://venge.io/",
+      "repositoryUrl": "https://venge.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "OnRush Studio",
+      "attribution": "Venge.io is developed and published by OnRush Studio.",
+      "license": "All game code, artwork, names and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://forum-files-playcanvas-com.s3.dualstack.eu-west-1.amazonaws.com/optimized/2X/a/a9e120f4a24fc6950993c2975d5c2f67d293dbcd_2_690x384.jpeg",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "Venge.io Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play Venge.io online for free. Choose heroes, weapons and abilities in this fast multiplayer browser FPS. Capture objectives and battle players worldwide.",
+      "keywords": [
+        "Venge.io",
+        "Venge io online",
+        "play Venge.io",
+        "Venge.io game",
+        "Venge.io FPS",
+        "Venge.io browser game",
+        "Venge.io multiplayer",
+        "Venge.io gameplay",
+        "Venge.io heroes",
+        "Venge.io weapons",
+        "Venge.io abilities",
+        "Venge.io maps",
+        "Venge.io controls",
+        "Venge.io no download",
+        "free online FPS",
+        "browser shooting games",
+        "multiplayer shooter",
+        "objective based shooter",
+        "arena FPS",
+        "online action games",
+        "PlayCanvas shooter",
+        "Venge.io skill cards"
+      ]
     }
   ]
 }
