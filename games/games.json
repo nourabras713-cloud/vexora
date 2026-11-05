@@ -288,12 +288,12 @@
     "sourceUrl": "https://www.crazygames.com/game/racing-limits"
   },
   {
-    "id": "madalin-stunt-cars-2",
-    "title": "Madalin Stunt Cars 2",
+    "id": "rally-racer-dirt",
+    "title": "Rally Racer Dirt",
     "category": "racing",
-    "description": "Drive exotic supercars across large 3D stunt maps, hit ramps, drift, boost with nitro and join multiplayer servers in Madalin Stunt Cars 2.",
-    "thumbnail": "https://img.youtube.com/vi/k_gjYNy3cLM/hqdefault.jpg",
-    "page": "/games/madalin-stunt-cars-2.html",
-    "sourceUrl": "https://www.madalingames.com/madalin-stunt-cars-2-webgl/"
+    "description": "Master high-speed rally drifting on asphalt and dirt in Rally Racer Dirt. Drive 13 rally cars, tune upgrades, conquer challenging tracks and compete in challenge, survival and realtime multiplayer modes.",
+    "thumbnail": "https://images.crazygames.com/rally-racer-dirt/20231120120839/rally-racer-dirt-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=800",
+    "page": "/games/rally-racer-dirt.html",
+    "sourceUrl": "https://www.crazygames.com/game/rally-racer-dirt"
   }
 ]
