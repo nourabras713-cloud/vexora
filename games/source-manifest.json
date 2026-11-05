@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 36,
+  "total": 37,
   "games": [
     {
       "id": 1,
@@ -356,6 +356,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/offroad-island"
+    },
+    {
+      "id": 37,
+      "slug": "car-games-car-racing-game",
+      "title": "Car Games: Car Racing Game",
+      "category": "racing",
+      "sourcePath": "/games/car-games-car-racing-game.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/car-games-car-racing-game"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
