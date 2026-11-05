@@ -1956,6 +1956,45 @@
       "thumbnail": "https://alpha.gobattle.io/images/loading/shot-lava-v2.webp",
       "videoUrl": null,
       "videoCredit": null
+    },
+    {
+      "id": "lobbystrike",
+      "title": "Lobbystrike",
+      "seoTitle": "Lobbystrike Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play Lobbystrike online for free. Enter a browser FPS with 23 game modes, 48 maps, 22 weapons, private rooms, bots and Battle Royale.",
+      "keywords": [
+        "Lobbystrike",
+        "Lobbystrike online",
+        "play Lobbystrike",
+        "Lobbystrike FPS",
+        "Lobbystrike game",
+        "free browser FPS",
+        "online shooting games",
+        "multiplayer shooting games",
+        "first person shooter online",
+        "browser shooter",
+        "Battle Royale browser game",
+        "Team Deathmatch",
+        "Search and Destroy",
+        "sniper game online",
+        "free online shooting games"
+      ],
+      "category": "Action",
+      "description": "Play Lobbystrike, a free multiplayer browser FPS with 23 game modes, 48 maps, 22 weapons, private rooms, bots and Battle Royale.",
+      "longDescription": "Lobbystrike is a multiplayer first-person shooter that runs directly in a web browser. Choose from classic team battles, free-for-all, sniper matches, objective-based modes, round-based tactical fights, co-op survival and Battle Royale. Create a private room for friends or join a public match, customize a weapon loadout and compete across a varied set of combat maps. The official game site advertises 23 modes, 48 maps, 22 weapons and rooms for up to 64 players. It also offers bots for practice and filling matches. VEXORA links to the official game and does not host or redistribute its files.",
+      "instructions": "W / A / S / D: move. Mouse: aim. Left mouse button: fire. Right mouse button: aim down sights or use the scope. Shift: sprint or steady the scope. Space: jump. C: crouch. R: reload. 1 / 2 / 3: switch weapon. G: throw a grenade. V: switch first- and third-person camera. M: map. Controls can be changed in the game's settings.",
+      "sourceUrl": "https://play.lobbystrike.com/",
+      "repositoryUrl": "https://lobbystrike.com/",
+      "sourceLabel": "Official Lobbystrike",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Lobbystrike",
+      "attribution": "Lobbystrike is developed by the Lobbystrike team. Official game: https://play.lobbystrike.com/. Official information: https://lobbystrike.com/.",
+      "license": "Lobbystrike game code, artwork, name and trademarks belong to their respective rights holders. VEXORA links to the official playable website and does not host or redistribute game files.",
+      "thumbnail": "https://lobbystrike.com/assets/img/ui-menu.webp",
+      "videoUrl": null,
+      "videoCredit": null
     }
   ]
 }
