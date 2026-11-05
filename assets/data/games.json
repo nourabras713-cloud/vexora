@@ -1002,6 +1002,41 @@
       "developer": "Kodub",
       "videoUrl": "https://www.youtube.com/results?search_query=PolyTrack+gameplay",
       "videoTitle": "PolyTrack Gameplay Videos"
+    },
+    {
+      "id": "crossy-road",
+      "title": "Crossy Road",
+      "seoTitle": "Crossy Road Online - Play Free Arcade Game | VEXORA",
+      "metaDescription": "Play Crossy Road online for free. Guide the chicken across busy roads, train tracks and rivers, collect coins, unlock characters and beat your high score.",
+      "keywords": [
+        "Crossy Road",
+        "Crossy Road online",
+        "play Crossy Road",
+        "Crossy Road game",
+        "Crossy Road unblocked",
+        "Crossy Road free online",
+        "Crossy Road gameplay",
+        "Crossy Road high score",
+        "Crossy Road characters",
+        "Crossy Road tips",
+        "endless arcade game",
+        "road crossing game",
+        "free browser games"
+      ],
+      "category": "Arcade",
+      "description": "Hop across busy roads, dodge cars and trains, cross rivers on moving logs and collect coins in the endless arcade hit Crossy Road.",
+      "longDescription": "Crossy Road is an endless arcade hopper created by Hipster Whale. Guide a character across roads, railway tracks and rivers while avoiding moving hazards. Every forward hop adds to your score, and coins can help unlock more characters. The challenge grows as traffic speeds up and safe routes become harder to find.",
+      "instructions": "Use the arrow keys or WASD to move forward and sideways on desktop. On mobile, tap to hop forward and swipe left or right to move sideways. Watch traffic, listen for train warnings, jump between floating logs and keep moving to avoid the eagle.",
+      "sourceUrl": "https://poki.com/en/g/crossy-road",
+      "repositoryUrl": "https://poki.com/en/g/crossy-road",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "attribution": "Crossy Road was created by Hipster Whale. Browser game page: Poki.",
+      "license": "Crossy Road, its artwork, characters and trademarks belong to Hipster Whale and their respective rights holders. VEXORA links to the browser version on Poki and does not host or redistribute the game.",
+      "thumbnail": "https://img.youtube.com/vi/dn2s8Jq_P1U/hqdefault.jpg",
+      "videoId": "dn2s8Jq_P1U",
+      "videoCredit": "Crossy Road Gameplay HD (Android) | NO COMMENTARY — FullThrough, YouTube, April 25, 2025."
     }
   ]
 }
