@@ -1672,6 +1672,51 @@
         "FRVR Krunker",
         "3D browser shooter"
       ]
+    },
+    {
+      "id": "deadshot-io",
+      "title": "DEADSHOT.io",
+      "category": "Action",
+      "description": "Jump into DEADSHOT.io, a competitive multiplayer browser FPS with fast gunfights, weapon classes, tactical maps and several online game modes.",
+      "longDescription": "DEADSHOT.io is a browser-based multiplayer first-person shooter built around quick matches and skill-based gunplay. Players enter online arenas, choose a weapon setup and compete in modes such as Free-for-All, Team Deathmatch and objective battles. The game features several maps and weapon classes for close-, medium- and long-range combat. VEXORA links directly to the official game website and does not host game files.",
+      "instructions": "WASD: move. Mouse: aim. Left mouse button: shoot. Right mouse button: aim down sights. Space: jump. Shift: crouch or slide. R: reload. Enter: chat. Esc: pause.",
+      "sourceUrl": "https://deadshot.io/",
+      "repositoryUrl": "https://deadshot.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "GoalieSave25 (developer attribution on game listings)",
+      "attribution": "DEADSHOT.io is available from its official website at deadshot.io. Game rights belong to the respective developers and owners.",
+      "license": "All game code, artwork, names and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://www.addictinggames.com/sites/default/files/styles/game_image/public/2022-09/deadshotio.jpg",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "DEADSHOT.io Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play DEADSHOT.io online, a free multiplayer browser FPS. Join fast arena battles, choose weapons, master movement and compete in Team Deathmatch, Free-for-All and objective modes.",
+      "keywords": [
+        "DEADSHOT.io",
+        "Deadshot io",
+        "Deadshot.io game",
+        "play Deadshot.io",
+        "Deadshot FPS",
+        "Deadshot online",
+        "Deadshot multiplayer",
+        "Deadshot unblocked",
+        "free browser FPS",
+        "online FPS games",
+        "multiplayer shooting games",
+        "first person shooter online",
+        "browser shooter game",
+        "Deadshot gameplay",
+        "Deadshot controls",
+        "Deadshot weapons",
+        "Team Deathmatch browser",
+        "Free for All shooter",
+        "online arena shooter",
+        "io shooting games",
+        "free online shooting game",
+        "Deadshot mobile game"
+      ]
     }
   ]
 }
