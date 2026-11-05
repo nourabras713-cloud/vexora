@@ -196,5 +196,14 @@
     "thumbnail": "https://img.youtube.com/vi/yGl1gDdYlF4/hqdefault.jpg",
     "page": "/games/electron-dash.html",
     "sourceUrl": "https://www.crazygames.com/game/electron-dash"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "category": "arcade",
+    "description": "Play Run 3 online and guide a small alien through floating space tunnels. Jump over gaps, rotate gravity, explore new levels and unlock characters.",
+    "thumbnail": "https://img.youtube.com/vi/kibE48yZMa0/hqdefault.jpg",
+    "page": "/games/run-3.html",
+    "sourceUrl": "https://www.coolmathgames.com/0-run-3"
   }
 ]

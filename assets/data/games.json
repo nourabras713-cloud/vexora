@@ -642,6 +642,47 @@
       "videoId": "yGl1gDdYlF4",
       "videoCredit": "Electron Dash Gameplay by LastHeroesGameplays (YouTube, October 7, 2023)",
       "developer": "MarketJS"
+    },
+    {
+      "id": "run-3",
+      "title": "Run 3",
+      "seoTitle": "Run 3 Online - Play the Free Space Tunnel Runner | VEXORA",
+      "metaDescription": "Play Run 3 online and guide an alien through dangerous space tunnels. Learn the controls, gravity rotation, Explore Mode, Infinite Mode and survival tips.",
+      "keywords": [
+        "Run 3",
+        "Run 3 online",
+        "play Run 3",
+        "Run 3 game",
+        "Run 3 Cool Math Games",
+        "Run 3 unblocked",
+        "Run 3 gameplay",
+        "Run 3 controls",
+        "Run 3 characters",
+        "Run 3 Explore Mode",
+        "Run 3 Infinite Mode",
+        "space runner game",
+        "gravity runner game",
+        "3D running game",
+        "free online platform games",
+        "tunnel running game",
+        "Joseph Cloutier Run 3"
+      ],
+      "category": "Arcade",
+      "description": "Play Run 3 online and guide a small alien through floating space tunnels. Jump over gaps, rotate gravity, explore new levels and unlock characters.",
+      "longDescription": "Run 3 is a space-themed platform runner created by Joseph Cloutier. Guide an alien through tunnels suspended in space, jump across missing tiles and move onto the walls to rotate gravity. Explore Mode offers connected levels and progression, while Infinite Mode challenges you to survive for as long as possible.",
+      "instructions": "Use the Left and Right Arrow keys or A and D to move around the tunnel. Press Up Arrow or Space to jump; holding the jump key can make you jump farther. Move onto a side wall to rotate the tunnel and turn that wall into your floor. Look ahead, time your landings and avoid crumbling tiles.",
+      "sourceUrl": "https://www.coolmathgames.com/0-run-3",
+      "repositoryUrl": "https://www.coolmathgames.com/0-run-3",
+      "sourceLabel": "Coolmath Games",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "attribution": "Run 3 was created by Joseph Cloutier (player_03). The browser game listing is hosted by Coolmath Games.",
+      "license": "Run 3, its code, artwork, characters, music, name and trademarks belong to their respective rights holders. VEXORA is an independent game directory and links to the hosted game; it does not copy or redistribute the game.",
+      "thumbnail": "https://img.youtube.com/vi/kibE48yZMa0/hqdefault.jpg",
+      "videoId": "kibE48yZMa0",
+      "videoCredit": "Run 3 Full Gameplay Walkthrough by GoGy Games (YouTube)",
+      "developer": "Joseph Cloutier (player_03)"
     }
   ]
 }

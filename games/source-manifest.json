@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 22,
+  "total": 23,
   "games": [
     {
       "id": 1,
@@ -201,6 +201,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/electron-dash"
+    },
+    {
+      "id": 23,
+      "slug": "run-3",
+      "title": "Run 3",
+      "category": "arcade",
+      "sourcePath": "/games/run-3.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.coolmathgames.com/0-run-3"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
