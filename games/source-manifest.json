@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 39,
+  "total": 40,
   "games": [
     {
       "id": 1,
@@ -387,6 +387,17 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.pacogames.com/driving/evo-f3"
+    },
+    {
+      "id": 40,
+      "slug": "sky-riders",
+      "title": "Sky Riders",
+      "category": "racing",
+      "sourcePath": "/games/sky-riders.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/sky-riders-buk",
+      "videoId": "T96uletR2DI"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
