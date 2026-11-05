@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 37,
+  "total": 38,
   "games": [
     {
       "id": 1,
@@ -366,6 +366,17 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/car-games-car-racing-game"
+    },
+    {
+      "id": 38,
+      "slug": "burnout-drift-3-seaport-max",
+      "title": "Burnout Drift 3: Seaport Max",
+      "category": "racing",
+      "sourcePath": "/games/burnout-drift-3-seaport-max.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/burnout-drift-seaport-max",
+      "videoId": "bainIBr7Cyg"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
