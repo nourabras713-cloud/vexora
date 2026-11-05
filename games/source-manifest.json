@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 42,
+  "total": 43,
   "games": [
     {
       "id": 1,
@@ -419,6 +419,16 @@
       "sourcePath": "/games/rooftop-snipers.html",
       "status": "detail-page-migrated",
       "playMode": "external-link"
+    },
+    {
+      "id": 43,
+      "slug": "time-shooter-2",
+      "title": "Time Shooter 2",
+      "category": "action",
+      "sourcePath": "/games/time-shooter-2.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/time-shooter-2"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
