@@ -1847,6 +1847,45 @@
         "free for all shooter",
         "free browser games"
       ]
+    },
+    {
+      "id": "kour-io",
+      "title": "Kour.io",
+      "category": "Action",
+      "description": "Play Kour.io online, a fast multiplayer browser FPS by Legion Platforms. Choose classes, weapons and game modes including Free For All and Team Deathmatch.",
+      "longDescription": "Kour.io is a fast-paced multiplayer online FPS developed by Legion Platforms. It features several maps, character classes, weapons and match types, including Free For All, Team Deathmatch, Gun Game and Hardpoint.",
+      "instructions": "W / A / S / D or arrow keys: move. Mouse: aim and shoot. Space: jump. R: reload. Shift or C: crouch. B: emote. F: inspect weapon. 1, 2, 3: switch weapons. Mobile and tablet players can use on-screen touch controls.",
+      "sourceUrl": "https://kour.io/",
+      "repositoryUrl": "https://kour.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Legion Platforms",
+      "attribution": "Kour.io was developed by Legion Platforms.",
+      "license": "All game code, artwork, names and trademarks belong to their respective rights holders. VEXORA links to the official game and does not host or redistribute game files.",
+      "thumbnail": "https://data.pacogames.com/images/wp/kourio.webp",
+      "videoUrl": null,
+      "videoCredit": null,
+      "seoTitle": "Kour.io Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play Kour.io online, a fast multiplayer browser FPS by Legion Platforms. Choose classes, weapons and game modes including Free For All and Team Deathmatch.",
+      "keywords": [
+        "Kour.io",
+        "Kour io online",
+        "play Kour.io",
+        "Kour.io FPS",
+        "Kour.io gameplay",
+        "Kour.io controls",
+        "Kour.io multiplayer",
+        "Legion Platforms",
+        "browser FPS",
+        "online shooter",
+        "free multiplayer games",
+        "team deathmatch",
+        "free for all",
+        "gun game",
+        "hardpoint",
+        "browser shooting games"
+      ]
     }
   ]
 }
