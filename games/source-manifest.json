@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 24,
+  "total": 25,
   "games": [
     {
       "id": 1,
@@ -221,6 +221,18 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://orteil.dashnet.org/cookieclicker/"
+    },
+    {
+      "id": 25,
+      "slug": "little-alchemy-2",
+      "title": "Little Alchemy 2",
+      "category": "puzzle",
+      "sourcePath": "/games/little-alchemy-2.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://littlealchemy2.com/",
+      "videoId": "8yLBIcbmVCA",
+      "videoUrl": "https://www.youtube.com/watch?v=8yLBIcbmVCA"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."

@@ -214,5 +214,14 @@
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
     "page": "/games/cookie-clicker.html",
     "sourceUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "little-alchemy-2",
+    "title": "Little Alchemy 2",
+    "category": "puzzle",
+    "description": "Combine earth, air, fire and water to discover hundreds of surprising creations in Little Alchemy 2, the creative crafting puzzle game by Recloak.",
+    "thumbnail": "https://img.youtube.com/vi/8yLBIcbmVCA/hqdefault.jpg",
+    "page": "/games/little-alchemy-2.html",
+    "sourceUrl": "https://littlealchemy2.com/"
   }
 ]
