@@ -475,5 +475,68 @@
     "thumbnail": "https://alpha.gobattle.io/images/loading/shot-lava-v2.webp",
     "page": "/games/gobattle-io.html",
     "sourceUrl": "https://gobattle.io/"
+  },
+  {
+    "id": "lobbystrike",
+    "title": "Lobbystrike",
+    "category": "action",
+    "description": "Play Lobbystrike, a free multiplayer browser FPS with 23 game modes, 48 maps, 22 weapons, private rooms, bots and Battle Royale.",
+    "thumbnail": "https://lobbystrike.com/assets/img/ui-menu.webp",
+    "page": "/games/lobbystrike.html",
+    "sourceUrl": "https://play.lobbystrike.com/"
+  },
+  {
+    "id": "kour-io",
+    "title": "Kour.io",
+    "category": "action",
+    "description": "Play Kour.io, a fast-paced multiplayer browser FPS with character classes, arena battles, weapon choices and competitive game modes.",
+    "thumbnail": "https://cdn.gamebezz.com/games/games/screenshot/kour-dot-io/kour-dot-io-screenshots-1254473-gamebezz-com.jpg",
+    "page": "/games/kour-io.html",
+    "sourceUrl": "https://kour.io/"
+  },
+  {
+    "id": "soccer-random",
+    "title": "Soccer Random",
+    "category": "sports",
+    "description": "Play Soccer Random online for free. Score five goals in this chaotic two-player football game with changing pitches, funny physics and simple one-button controls.",
+    "thumbnail": "https://browsergamers.gg/cdn/images/banners/soccer-random-game-cover.webp?fit=crop&format=png&height=630&q=100&w=1200",
+    "page": "/games/soccer-random.html",
+    "sourceUrl": "https://www.crazygames.com/game/soccer-random"
+  },
+  {
+    "id": "snow-rider-3d",
+    "title": "Snow Rider 3D",
+    "category": "arcade",
+    "description": "Play Snow Rider 3D online and guide your sled down endless snowy slopes. Dodge trees and snowmen, jump over hazards and collect gifts.",
+    "thumbnail": "https://gamebiz.com/img/snow-rider-3d-poster.jpg",
+    "page": "/games/snow-rider-3d.html",
+    "sourceUrl": "https://www.crazygames.com/game/snow-rider-3d"
+  },
+  {
+    "id": "basketball-superstars",
+    "title": "Basketball Superstars",
+    "category": "sports",
+    "description": "Play Basketball Superstars online. Create and train your player, customize your gear and compete in fast-paced basketball matches.",
+    "thumbnail": "https://dashmetry.com/data/image/game/basketball-superstars/basketball-superstars.jpg",
+    "page": "/games/basketball-superstars.html",
+    "sourceUrl": "https://www.crazygames.com/game/basketball-superstars"
+  },
+  {
+    "id": "eggy-car",
+    "title": "Eggy Car",
+    "category": "racing",
+    "description": "Play Eggy Car online for free. Drive over bumpy hills while keeping a fragile egg balanced in your car and collect coins on the road.",
+    "thumbnail": "https://browsergamers.gg/cdn/images/banners/eggy-car-game-cover.webp?fit=crop&format=png&height=630&q=100&w=1200",
+    "page": "/games/eggy-car.html",
+    "sourceUrl": "https://www.crazygames.com/game/eggy-car"
+  },
+  {
+    "id": "helix-jump",
+    "title": "Helix Jump",
+    "category": "arcade",
+    "description": "Play Helix Jump online for free. Guide a bouncing ball through rotating tower platforms, fall through gaps and avoid forbidden zones.",
+    "thumbnail": "https://imgs.crazygames.com/games/helix-jump/cover_16x9-1733222901873.png?height=5063&metadata=none&quality=60",
+    "page": "/games/helix-jump.html",
+    "sourceUrl": "https://www.crazygames.com/game/helix-jump"
   }
 ]
