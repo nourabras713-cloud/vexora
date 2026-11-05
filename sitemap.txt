@@ -28,3 +28,4 @@ https://vexora-4tm.pages.dev/games/run-3.html
 https://vexora-4tm.pages.dev/games/cookie-clicker.html
 https://vexora-4tm.pages.dev/games/little-alchemy-2.html
 https://vexora-4tm.pages.dev/games/tetris.html
+https://vexora-4tm.pages.dev/games/pac-man.html

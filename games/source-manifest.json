@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 26,
+  "total": 27,
   "games": [
     {
       "id": 1,
@@ -245,6 +245,18 @@
       "sourceUrl": "https://play.tetris.com/games/",
       "videoId": "uccXwNSGDNU",
       "videoUrl": "https://www.youtube.com/watch?v=uccXwNSGDNU"
+    },
+    {
+      "id": 27,
+      "slug": "pac-man",
+      "title": "Pac-Man",
+      "category": "arcade",
+      "sourcePath": "/games/pac-man.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://pacman.love/",
+      "videoId": "NxBDhJ_Ob0g",
+      "videoUrl": "https://www.youtube.com/watch?v=NxBDhJ_Ob0g"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."

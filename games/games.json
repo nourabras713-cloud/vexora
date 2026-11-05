@@ -232,5 +232,14 @@
     "thumbnail": "https://img.youtube.com/vi/uccXwNSGDNU/hqdefault.jpg",
     "page": "/games/tetris.html",
     "sourceUrl": "https://play.tetris.com/games/"
+  },
+  {
+    "id": "pac-man",
+    "title": "Pac-Man",
+    "category": "arcade",
+    "description": "Play Pac-Man online: guide the iconic yellow character through a maze, eat every pellet, collect power pellets and outsmart the four ghosts.",
+    "thumbnail": "https://img.youtube.com/vi/NxBDhJ_Ob0g/hqdefault.jpg",
+    "page": "/games/pac-man.html",
+    "sourceUrl": "https://pacman.love/"
   }
 ]
