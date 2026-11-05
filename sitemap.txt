@@ -45,3 +45,4 @@ https://vexora-4tm.pages.dev/games/sky-riders.html
 https://vexora-4tm.pages.dev/games/ragdoll-archers.html
 https://vexora-4tm.pages.dev/games/rooftop-snipers.html
 https://vexora-4tm.pages.dev/games/time-shooter-2.html
+https://vexora-4tm.pages.dev/games/getaway-shootout.html
