@@ -457,5 +457,14 @@
     "thumbnail": "https://img.youtube.com/vi/YUIRr9-cIlU/hqdefault.jpg",
     "page": "/games/repuls-io.html",
     "sourceUrl": "https://repuls.io/"
+  },
+  {
+    "id": "fields-of-fury",
+    "title": "Fields of Fury",
+    "category": "action",
+    "description": "Play Fields of Fury, a WWII multiplayer browser FPS built around team combat and capture-the-flag battles.",
+    "thumbnail": "https://www.fieldsoffury.io/favicon.ico",
+    "page": "/games/fields-of-fury.html",
+    "sourceUrl": "https://www.fieldsoffury.io/"
   }
 ]
