@@ -1627,6 +1627,51 @@
         "free browser FPS",
         "online arena shooter"
       ]
+    },
+    {
+      "id": "krunker",
+      "title": "Krunker.io",
+      "category": "Action",
+      "description": "Jump into Krunker.io, a fast-paced multiplayer first-person shooter. Battle players worldwide, master slide hopping, choose classes and weapons, and explore competitive and community game modes.",
+      "longDescription": "Krunker is a fast-paced browser-based first-person shooter known for its movement-focused gameplay, quick matches and community-created content. Players join online servers, select a class and weapon, and compete in modes such as Free For All and team battles. Its signature slide-hopping technique rewards timing and map knowledge. The official game page also provides ranked play, server discovery, custom games and guides. VEXORA links to the official Krunker website rather than hosting game files.",
+      "instructions": "WASD: move. Mouse: aim and look. Left mouse button: shoot. R: reload. C: crouch or slide. Space: jump. F: spray paint. Press Esc to release the mouse.",
+      "sourceUrl": "https://krunker.io/",
+      "repositoryUrl": "https://krunker.io/",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "developer": "Yendis Entertainment / FRVR",
+      "attribution": "Krunker is the property of its developers and current publisher. Play through the official website at krunker.io.",
+      "license": "All game code, artwork, names and trademarks belong to their respective rights holders. VEXORA links to the official playable game and does not host or redistribute game files.",
+      "thumbnail": "https://img.youtube.com/vi/I4jwatriPXA/hqdefault.jpg",
+      "videoUrl": "https://www.youtube-nocookie.com/embed/I4jwatriPXA",
+      "videoCredit": "Krunker official guide link for slide-hopping movement technique",
+      "seoTitle": "Krunker.io Online - Play Free Multiplayer FPS | VEXORA",
+      "metaDescription": "Play Krunker.io online, a fast-paced free multiplayer FPS. Join live battles, master slide hopping, choose weapons and classes, and compete in browser shooter game modes.",
+      "keywords": [
+        "Krunker.io",
+        "Krunker online",
+        "play Krunker",
+        "Krunker game",
+        "Krunker FPS",
+        "Krunker unblocked",
+        "Krunker multiplayer",
+        "Krunker.io gameplay",
+        "Krunker slide hop",
+        "Krunker controls",
+        "free online FPS game",
+        "browser FPS",
+        "multiplayer shooter",
+        "online shooting games",
+        "first person shooter browser",
+        "Krunker classes",
+        "Krunker weapons",
+        "Krunker ranked",
+        "Krunker custom games",
+        "Yendis Entertainment",
+        "FRVR Krunker",
+        "3D browser shooter"
+      ]
     }
   ]
 }
