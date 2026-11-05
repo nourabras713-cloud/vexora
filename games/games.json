@@ -349,5 +349,14 @@
     "page": "/games/evo-f3.html",
     "sourceUrl": "https://www.pacogames.com/driving/evo-f3",
     "thumbnail": "https://d.pacogames.com/images/webp/230x172/evo-f3.jpg.webp"
+  },
+  {
+    "id": "sky-riders",
+    "title": "Sky Riders",
+    "category": "racing",
+    "description": "Take cars and motorcycles across 30 challenging sky-high tracks in Sky Riders. Master narrow roads, sharp turns, ramps and jumps while keeping your vehicle from falling.",
+    "page": "/games/sky-riders.html",
+    "sourceUrl": "https://www.crazygames.com/game/sky-riders-buk",
+    "thumbnail": "https://img.youtube.com/vi/T96uletR2DI/hqdefault.jpg"
   }
 ]
