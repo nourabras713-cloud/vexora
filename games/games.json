@@ -322,5 +322,13 @@
     "thumbnail": "https://browsergamers.gg/cdn/images/banners/offroad-island-game-cover.webp?fit=crop&format=auto&q=75&w=1200",
     "page": "/games/offroad-island.html",
     "sourceUrl": "https://www.crazygames.com/game/offroad-island"
+  },
+  {
+    "id": "car-games-car-racing-game",
+    "title": "Car Games: Car Racing Game",
+    "category": "racing",
+    "description": "Race through a vibrant 3D city in Car Games: Car Racing Game by TapNation. Master fast urban races, use nitro boosts and explore multiple racing modes on desktop or mobile.",
+    "page": "/games/car-games-car-racing-game.html",
+    "sourceUrl": "https://www.crazygames.com/game/car-games-car-racing-game"
   }
 ]
