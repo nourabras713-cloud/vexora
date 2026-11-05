@@ -466,5 +466,14 @@
     "thumbnail": "https://www.fieldsoffury.io/favicon.ico",
     "page": "/games/fields-of-fury.html",
     "sourceUrl": "https://www.fieldsoffury.io/"
+  },
+  {
+    "id": "gobattle-io",
+    "title": "GoBattle.io",
+    "category": "action",
+    "description": "Explore Valdoran in GoBattle.io, a free pixel-art multiplayer action RPG with dungeons, monsters, Battle Royale and ranked PvP.",
+    "thumbnail": "https://alpha.gobattle.io/images/loading/shot-lava-v2.webp",
+    "page": "/games/gobattle-io.html",
+    "sourceUrl": "https://gobattle.io/"
   }
 ]
