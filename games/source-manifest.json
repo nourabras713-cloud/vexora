@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 31,
+  "total": 32,
   "games": [
     {
       "id": 1,
@@ -304,6 +304,17 @@
       "sourceUrl": "https://poki.com/en/g/crossy-road",
       "videoId": "dn2s8Jq_P1U",
       "videoUrl": "https://www.youtube.com/watch?v=dn2s8Jq_P1U"
+    },
+    {
+      "id": 32,
+      "slug": "racing-limits",
+      "title": "Racing Limits",
+      "category": "racing",
+      "sourcePath": "/games/racing-limits.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/racing-limits",
+      "videoUrl": "https://www.youtube.com/results?search_query=Racing+Limits+gameplay+Valvolex"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
