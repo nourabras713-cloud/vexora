@@ -507,13 +507,13 @@
     },
     {
       "id": 51,
-      "slug": "kour-io",
-      "title": "Kour.io",
+      "slug": "repuls-io",
+      "title": "Repuls.io",
       "category": "Action",
-      "sourcePath": "/games/kour-io.html",
+      "sourcePath": "/games/repuls-io.html",
       "status": "detail-page-migrated",
       "playMode": "external-link",
-      "sourceUrl": "https://kour.io/"
+      "sourceUrl": "https://repuls.io/"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
