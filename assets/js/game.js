@@ -60,17 +60,19 @@
       stage.appendChild(frame);
       if (externalUrl) {
         openButton.href = externalUrl;
+        openButton.target = game.openInSameTab ? "_self" : "_blank";
         openButton.textContent = "Open original game ↗";
         openButton.hidden = false;
       }
     } else if (externalUrl) {
       openButton.href = externalUrl;
+      openButton.target = game.openInSameTab ? "_self" : "_blank";
       openButton.textContent = "PLAY NOW ↗";
       openButton.hidden = false;
       const launch = document.createElement("a");
       launch.className = "player-launch";
       launch.href = externalUrl;
-      launch.target = "_blank";
+      launch.target = game.openInSameTab ? "_self" : "_blank";
       launch.rel = "noopener noreferrer";
       launch.innerHTML = '<span>▶</span><b>Play this game</b><small>Opens the original game page on ' + escapeHTML(sourceLabel) + '</small>';
       stage.appendChild(launch);
