@@ -358,5 +358,14 @@
     "page": "/games/sky-riders.html",
     "sourceUrl": "https://www.crazygames.com/game/sky-riders-buk",
     "thumbnail": "https://img.youtube.com/vi/T96uletR2DI/hqdefault.jpg"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "category": "action",
+    "description": "Aim, shoot and survive in Ragdoll Archers, a physics-based stickman archery battle. Defeat enemies, unlock special arrows and play solo, co-op or PvP.",
+    "thumbnail": "https://img.youtube.com/vi/lo9eX0T6bi4/hqdefault.jpg",
+    "page": "/games/ragdoll-archers.html",
+    "sourceUrl": "https://www.crazygames.com/game/ragdoll-archers"
   }
 ]
