@@ -241,5 +241,14 @@
     "thumbnail": "https://img.youtube.com/vi/NxBDhJ_Ob0g/hqdefault.jpg",
     "page": "/games/pac-man.html",
     "sourceUrl": "https://pacman.love/"
+  },
+  {
+    "id": "friday-night-funkin",
+    "title": "Friday Night Funkin'",
+    "category": "music",
+    "description": "Play Friday Night Funkin', the popular music rhythm game. Follow the arrows, hit notes on the beat and challenge musical rivals in rhythm battles.",
+    "thumbnail": "https://img.youtube.com/vi/uEHt29gzgtI/hqdefault.jpg",
+    "page": "/games/friday-night-funkin.html",
+    "sourceUrl": "https://www.newgrounds.com/portal/view/770371"
   }
 ]

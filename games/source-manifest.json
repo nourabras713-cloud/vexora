@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 27,
+  "total": 28,
   "games": [
     {
       "id": 1,
@@ -257,6 +257,18 @@
       "sourceUrl": "https://pacman.love/",
       "videoId": "NxBDhJ_Ob0g",
       "videoUrl": "https://www.youtube.com/watch?v=NxBDhJ_Ob0g"
+    },
+    {
+      "id": 28,
+      "slug": "friday-night-funkin",
+      "title": "Friday Night Funkin'",
+      "category": "music",
+      "sourcePath": "/games/friday-night-funkin.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.newgrounds.com/portal/view/770371",
+      "videoId": "uEHt29gzgtI",
+      "videoUrl": "https://www.youtube.com/watch?v=uEHt29gzgtI"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
