@@ -1109,6 +1109,45 @@
       "videoUrl": "https://www.youtube.com/results?search_query=Rally+Racer+Dirt+gameplay",
       "attribution": "Rally Racer Dirt is developed by Valvolex. VEXORA links to the original browser game on CrazyGames.",
       "license": "Rally Racer Dirt, its game assets, artwork, name and trademarks belong to Valvolex and their respective rights holders. VEXORA does not host or redistribute the game files."
+    },
+    {
+      "id": "super-star-car",
+      "title": "Super Star Car",
+      "seoTitle": "Super Star Car Online - Play Free 3D Formula Racing Game | VEXORA",
+      "metaDescription": "Play Super Star Car online and race Formula-style cars across detailed 3D circuits. Build your racing career, beat AI rivals, earn rewards and improve your performance.",
+      "keywords": [
+        "Super Star Car",
+        "Super Star Car online",
+        "play Super Star Car",
+        "Super Star Car game",
+        "Super Star Car unblocked",
+        "Super Star Car gameplay",
+        "Super Star Car racing",
+        "Super Star Car Formula 1",
+        "Super Star Car cars",
+        "Super Star Car tracks",
+        "F1 browser game",
+        "Formula racing game online",
+        "3D car racing games",
+        "free online racing games",
+        "career mode racing game",
+        "single player racing game",
+        "browser F1 racing"
+      ],
+      "category": "Racing",
+      "description": "Race Formula-style cars across detailed 3D circuits in Super Star Car. Build your racing career, compete against AI drivers, earn rewards and improve your performance through a championship campaign.",
+      "longDescription": "Super Star Car is a 3D Formula-style browser racing game developed by Barnzmu. It features a career mode, multiple international circuits, race progression, vehicle performance upgrades, detailed 3D environments and several camera views including a cockpit perspective.",
+      "instructions": "Use W or the Up Arrow to accelerate, S or the Down Arrow to brake, and A/D or the Left/Right Arrows to steer. Press C to change camera view and Spacebar to respawn. An Xbox controller is also supported. This game is listed for desktop browsers only.",
+      "sourceUrl": "https://www.crazygames.com/game/super-star-car",
+      "repositoryUrl": "https://www.crazygames.com/game/super-star-car",
+      "playMode": "external",
+      "embedUrl": null,
+      "aspectRatio": "16 / 9",
+      "thumbnail": "https://imgs.crazygames.com/super-star-car_16x9/20250519082532/super-star-car_16x9-cover?fit=crop&height=630&metadata=none&quality=100&width=1200",
+      "developer": "Barnzmu",
+      "videoUrl": "https://www.youtube.com/results?search_query=Super+Star+Car+Barnzmu+gameplay",
+      "attribution": "Super Star Car was developed by Barnzmu. VEXORA links to the original browser game on CrazyGames.",
+      "license": "Super Star Car, its game assets, artwork, name and trademarks belong to Barnzmu and their respective rights holders. VEXORA links to the original browser game and does not host or redistribute the game files."
     }
   ]
 }
