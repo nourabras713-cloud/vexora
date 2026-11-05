@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 32,
+  "total": 33,
   "games": [
     {
       "id": 1,
@@ -315,6 +315,18 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/racing-limits",
       "videoUrl": "https://www.youtube.com/results?search_query=Racing+Limits+gameplay+Valvolex"
+    },
+    {
+      "id": 33,
+      "slug": "madalin-stunt-cars-2",
+      "title": "Madalin Stunt Cars 2",
+      "category": "racing",
+      "sourcePath": "/games/madalin-stunt-cars-2.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.madalingames.com/madalin-stunt-cars-2-webgl/",
+      "videoId": "k_gjYNy3cLM",
+      "videoUrl": "https://www.youtube.com/watch?v=k_gjYNy3cLM"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
