@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 50,
+  "total": 51,
   "games": [
     {
       "id": 1,
@@ -504,6 +504,16 @@
       "status": "detail-page-migrated",
       "playMode": "external-link",
       "sourceUrl": "https://nadgames.com/combat_reloaded"
+    },
+    {
+      "id": 51,
+      "slug": "kour-io",
+      "title": "Kour.io",
+      "category": "Action",
+      "sourcePath": "/games/kour-io.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://kour.io/"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
