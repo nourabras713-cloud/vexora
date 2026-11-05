@@ -318,15 +318,14 @@
     },
     {
       "id": 33,
-      "slug": "madalin-stunt-cars-2",
-      "title": "Madalin Stunt Cars 2",
+      "slug": "rally-racer-dirt",
+      "title": "Rally Racer Dirt",
       "category": "racing",
-      "sourcePath": "/games/madalin-stunt-cars-2.html",
+      "sourcePath": "/games/rally-racer-dirt.html",
       "status": "detail-page-migrated",
       "playMode": "external-link",
-      "sourceUrl": "https://www.madalingames.com/madalin-stunt-cars-2-webgl/",
-      "videoId": "k_gjYNy3cLM",
-      "videoUrl": "https://www.youtube.com/watch?v=k_gjYNy3cLM"
+      "sourceUrl": "https://www.crazygames.com/game/rally-racer-dirt",
+      "videoUrl": "https://www.youtube.com/results?search_query=Rally+Racer+Dirt+gameplay"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
