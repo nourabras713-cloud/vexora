@@ -277,5 +277,14 @@
     "thumbnail": "https://img.youtube.com/vi/dn2s8Jq_P1U/hqdefault.jpg",
     "page": "/games/crossy-road.html",
     "sourceUrl": "https://poki.com/en/g/crossy-road"
+  },
+  {
+    "id": "racing-limits",
+    "title": "Racing Limits",
+    "category": "racing",
+    "description": "Push powerful cars through city streets and open highways in Racing Limits. Overtake traffic, use nitro, switch camera views and take on multiple racing modes.",
+    "thumbnail": "https://www.drifted.com/wp-content/uploads/2025/05/2025-05-30_11-14-59-1024x557.jpg",
+    "page": "/games/racing-limits.html",
+    "sourceUrl": "https://www.crazygames.com/game/racing-limits"
   }
 ]
