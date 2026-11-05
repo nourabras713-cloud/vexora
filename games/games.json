@@ -448,5 +448,14 @@
     "thumbnail": "https://imgs2.dab3games.com/combat-online13.png",
     "page": "/games/combat-reloaded.html",
     "sourceUrl": "https://nadgames.com/combat_reloaded"
+  },
+  {
+    "id": "kour-io",
+    "title": "Kour.io",
+    "category": "Action",
+    "description": "Play Kour.io online, a fast multiplayer browser FPS by Legion Platforms. Choose classes, weapons and game modes including Free For All and Team Deathmatch.",
+    "thumbnail": "https://data.pacogames.com/images/wp/kourio.webp",
+    "page": "/games/kour-io.html",
+    "sourceUrl": "https://kour.io/"
   }
 ]
