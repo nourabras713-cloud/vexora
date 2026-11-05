@@ -1885,7 +1885,8 @@
         "gun game",
         "hardpoint",
         "browser shooting games"
-      ]
+      ],
+      "openInSameTab": true
     }
   ]
 }
