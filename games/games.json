@@ -450,12 +450,12 @@
     "sourceUrl": "https://nadgames.com/combat_reloaded"
   },
   {
-    "id": "kour-io",
-    "title": "Kour.io",
+    "id": "repuls-io",
+    "title": "Repuls.io",
     "category": "Action",
-    "description": "Play Kour.io online, a fast multiplayer browser FPS by Legion Platforms. Choose classes, weapons and game modes including Free For All and Team Deathmatch.",
-    "thumbnail": "https://data.pacogames.com/images/wp/kourio.webp",
-    "page": "/games/kour-io.html",
-    "sourceUrl": "https://kour.io/"
+    "description": "Play Repuls.io online, a free multiplayer sci-fi FPS featuring large battlefields, weapons, vehicles, aircraft and grappling abilities.",
+    "thumbnail": "https://img.youtube.com/vi/YUIRr9-cIlU/hqdefault.jpg",
+    "page": "/games/repuls-io.html",
+    "sourceUrl": "https://repuls.io/"
   }
 ]
