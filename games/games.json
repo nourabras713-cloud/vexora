@@ -295,5 +295,14 @@
     "thumbnail": "https://images.crazygames.com/rally-racer-dirt/20231120120839/rally-racer-dirt-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=800",
     "page": "/games/rally-racer-dirt.html",
     "sourceUrl": "https://www.crazygames.com/game/rally-racer-dirt"
+  },
+  {
+    "id": "super-star-car",
+    "title": "Super Star Car",
+    "category": "racing",
+    "description": "Race Formula-style cars across detailed 3D circuits in Super Star Car. Build your racing career, compete against AI drivers, earn rewards and improve your performance through a championship campaign.",
+    "thumbnail": "https://imgs.crazygames.com/super-star-car_16x9/20250519082532/super-star-car_16x9-cover?fit=crop&height=630&metadata=none&quality=100&width=1200",
+    "page": "/games/super-star-car.html",
+    "sourceUrl": "https://www.crazygames.com/game/super-star-car"
   }
 ]
