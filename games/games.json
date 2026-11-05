@@ -340,5 +340,14 @@
     "page": "/games/burnout-drift-3-seaport-max.html",
     "sourceUrl": "https://www.crazygames.com/game/burnout-drift-seaport-max",
     "thumbnail": "https://imgs.crazygames.com/burnoutdriftseaportmaxb.png?fit=crop&height=630&metadata=none&quality=100&width=1200"
+  },
+  {
+    "id": "evo-f3",
+    "title": "Evo-F3",
+    "category": "racing",
+    "description": "Explore a huge airport in Evo-F3, a 3D driving sandbox by Ciorbyn. Drive supercars, buses and forklifts, build custom stunt layouts with movable ramps, and race around active runways.",
+    "page": "/games/evo-f3.html",
+    "sourceUrl": "https://www.pacogames.com/driving/evo-f3",
+    "thumbnail": "https://d.pacogames.com/images/webp/230x172/evo-f3.jpg.webp"
   }
 ]
