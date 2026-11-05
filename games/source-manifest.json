@@ -1,6 +1,6 @@
 {
   "source": "https://gamevixo.gamevixo-online.workers.dev",
-  "total": 33,
+  "total": 34,
   "games": [
     {
       "id": 1,
@@ -326,6 +326,16 @@
       "playMode": "external-link",
       "sourceUrl": "https://www.crazygames.com/game/rally-racer-dirt",
       "videoUrl": "https://www.youtube.com/results?search_query=Rally+Racer+Dirt+gameplay"
+    },
+    {
+      "id": 34,
+      "slug": "super-star-car",
+      "title": "Super Star Car",
+      "category": "racing",
+      "sourcePath": "/games/super-star-car.html",
+      "status": "detail-page-migrated",
+      "playMode": "external-link",
+      "sourceUrl": "https://www.crazygames.com/game/super-star-car"
     }
   ],
   "note": "The directory links to original third-party game pages. Game binaries are not copied or rehosted."
