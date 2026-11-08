@@ -27,10 +27,19 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Prepare project-site paths
+        run: |
+          mkdir -p /tmp/vexora-site
+          cp -a . /tmp/vexora-site/
+          rm -rf /tmp/vexora-site/.git /tmp/vexora-site/.github
+          sed -i 's|href="/|href="./|g; s|src="/|src="./|g' /tmp/vexora-site/index.html
+          sed -i 's|fetch("/games/|fetch("games/|g' /tmp/vexora-site/assets/js/games.js
+          sed -i 's|"page": "/games/|"page": "games/|g' /tmp/vexora-site/games/games.json
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: /tmp/vexora-site
 
       - name: Deploy
         id: deployment
