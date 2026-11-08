@@ -27,14 +27,32 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Prepare project-site paths
+      - name: Prepare project-site paths and render catalogue
         run: |
           mkdir -p /tmp/vexora-site
           cp -a . /tmp/vexora-site/
           rm -rf /tmp/vexora-site/.git /tmp/vexora-site/.github
           sed -i 's|href="/|href="./|g; s|src="/|src="./|g' /tmp/vexora-site/index.html
-          sed -i 's|fetch("/games/|fetch("games/|g' /tmp/vexora-site/assets/js/games.js
-          sed -i 's|"page": "/games/|"page": "games/|g' /tmp/vexora-site/games/games.json
+          python3 - <<'PY'
+          import json, html, pathlib
+          root = pathlib.Path('/tmp/vexora-site')
+          index = root / 'index.html'
+          catalogue = json.loads((root / 'games/games.json').read_text(encoding='utf-8'))
+          cards = []
+          for game in catalogue:
+              title = html.escape(str(game.get('title', 'Game')))
+              desc = html.escape(str(game.get('description', 'Play this free browser game.')))
+              category = html.escape(str(game.get('category', 'Arcade')))
+              image = html.escape(str(game.get('thumbnail', '')), quote=True)
+              page = html.escape(str(game.get('page', '#')), quote=True)
+              image_html = f'<img src="{image}" alt="{title}" loading="lazy">' if image else ''
+              cards.append(f'<article class="game-card">{image_html}<div class="game-card-body"><h3>{title}</h3><p>{desc}</p><div class="game-meta"><span>{category}</span><a class="play-link" href="./{page}">Play now →</a></div></div></article>')
+          source = index.read_text(encoding='utf-8')
+          source = source.replace('<div id="gameGrid" class="game-grid"></div>', '<div id="gameGrid" class="game-grid">' + ''.join(cards) + '</div>')
+          source = source.replace('<div class="empty" id="emptyGames">', '<div class="empty" id="emptyGames" hidden>')
+          index.write_text(source, encoding='utf-8')
+          print(f'Pre-rendered {len(cards)} games into index.html')
+          PY
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
