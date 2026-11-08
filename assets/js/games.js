@@ -14,5 +14,5 @@
   }
   search.addEventListener("input",render);
   document.querySelectorAll("[data-filter]").forEach(a=>a.addEventListener("click",()=>{activeCategory=a.dataset.filter||"all";render();}));
-  fetch("/games/games.json").then(r=>{if(!r.ok)throw Error("Catalogue unavailable");return r.json();}).then(data=>{games=Array.isArray(data)?data:[];render();}).catch(render);
+  fetch("games/games.json").then(r=>{if(!r.ok)throw Error("Catalogue unavailable");return r.json();}).then(data=>{games=Array.isArray(data)?data:[];render();}).catch(render);
 })();
