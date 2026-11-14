@@ -64,3 +64,4 @@ https://vexora-4tm.pages.dev/games/eggy-car.html
 https://vexora-4tm.pages.dev/games/helix-jump.html
 https://vexora-4tm.pages.dev/games/traffic-jam-3d.html
 https://vexora-4tm.pages.dev/games/police-pursuit-2.html
+https://vexora-4tm.pages.dev/games/madalin-stunt-cars-2.html
