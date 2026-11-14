@@ -66,3 +66,4 @@ https://vexora-4tm.pages.dev/games/traffic-jam-3d.html
 https://vexora-4tm.pages.dev/games/police-pursuit-2.html
 https://vexora-4tm.pages.dev/games/madalin-stunt-cars-2.html
 https://vexora-4tm.pages.dev/games/traffic-racer.html
+https://vexora-4tm.pages.dev/games/night-city-racing.html
