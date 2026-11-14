@@ -538,49 +538,5 @@
     "thumbnail": "https://imgs.crazygames.com/games/helix-jump/cover_16x9-1733222901873.png?height=5063&metadata=none&quality=60",
     "page": "games/helix-jump.html",
     "sourceUrl": "https://www.crazygames.com/game/helix-jump"
-  },
-  {
-    "id": "police-pursuit-2",
-    "title": "Police Pursuit 2",
-    "category": "racing",
-    "description": "Chase criminals across a 3D city in a police supercar, use nitro, complete missions and survive heavy traffic.",
-    "page": "games/police-pursuit-2.html",
-    "sourceUrl": "https://www.gameflare.com/online-game/police-pursuit-2/"
-  },
-  {
-    "id": "traffic-jam-3d",
-    "title": "Traffic Jam 3D",
-    "category": "racing",
-    "description": "Drive high-performance cars through heavy traffic, complete missions, beat time challenges and unlock vehicle upgrades.",
-    "page": "games/traffic-jam-3d.html",
-    "sourceUrl": "https://www.gameflare.com/online-game/traffic-jam-3d/"
-  },
-  {
-    "id": "renegade-racing",
-    "title": "Renegade Racing",
-    "category": "racing",
-    "description": "Race through challenging 2D tracks, perform flips and stunts, unlock cars and upgrade your performance across 18 levels.",
-    "page": "games/renegade-racing.html",
-    "sourceUrl": "https://www.gameflare.com/online-game/renegade-racing/",
-    "videoId": "iCrIO57LwTM",
-    "videoCredit": "Renegade Racing full gameplay walkthrough by GoGy Games"
-  },
-  {
-    "id": "xtreme-drift-2-online",
-    "title": "Xtreme Drift 2 Online",
-    "category": "racing",
-    "description": "Drift powerful cars on multiple tracks, customize vehicles, use turbo and compete in online multiplayer races.",
-    "page": "games/xtreme-drift-2-online.html",
-    "sourceUrl": "https://www.gameflare.com/online-game/xtreme-drift-2-online/",
-    "videoId": "iiSz7z4FuTY",
-    "videoCredit": "Xtreme Drift 2 Online gameplay by Xtreme Games"
-  },
-  {
-    "id": "racing-horizon",
-    "title": "Racing Horizon",
-    "category": "racing",
-    "description": "Drive through busy city highways, complete missions, use nitro, escape police chases and upgrade your cars.",
-    "page": "games/racing-horizon.html",
-    "sourceUrl": "https://www.gameflare.com/online-game/racing-horizon/"
   }
 ]
