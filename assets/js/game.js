@@ -39,7 +39,7 @@
       try {
         const resolved = new URL(game.embedUrl, document.baseURI);
         const localEmbed = resolved.origin === window.location.origin && /^(?:assets|games)\/[a-zA-Z0-9_./-]+$/.test(game.embedUrl);
-        const approvedExternalEmbed = resolved.protocol === "https:" && resolved.hostname === "www.miniplay.com" && resolved.pathname === "/embed/kour.io";
+        const approvedExternalEmbed = (resolved.protocol === "https:" && resolved.hostname === "www.miniplay.com" && resolved.pathname === "/embed/kour.io") || (resolved.protocol === "https:" && resolved.hostname === "www.gameflare.com" && resolved.pathname === "/embed/traffic-jam-3d/");
         if (localEmbed || approvedExternalEmbed) embedSrc = resolved.href;
       } catch (_) {}
     }
@@ -124,6 +124,8 @@
     assign("gameDescription", game.description || "");
     assign("gameInstructions", game.instructions || "Use the controls shown inside the game.");
     assign("gameLongDescription", game.longDescription || game.description || "Discover this game on VEXORA.");
+    const article = byId("gameArticleContent");
+    if (article && game.articleHtml) article.innerHTML = game.articleHtml;
     assign("gameAttribution", game.attribution || "Game and trademarks belong to their respective owners.");
     assign("gameLicense", game.license || "See the original project for licensing details.");
     const sourceLink = byId("gameSource");
@@ -152,7 +154,7 @@
   fetch(catalogUrl.href, {cache:"no-cache"})
     .then(response => { if (!response.ok) throw new Error("catalog"); return response.json(); })
     .then(data => {
-      const games = Array.isArray(data.games) ? data.games : [];
+      const games = Array.isArray(data) ? data : (Array.isArray(data.games) ? data.games : []);
       const found = games.find(item => item && item.id === requestedId);
       if (!found) { showError("This game could not be found in the VEXORA library."); return; }
       render(found, games);
