@@ -39,7 +39,7 @@
       try {
         const resolved = new URL(game.embedUrl, document.baseURI);
         const localEmbed = resolved.origin === window.location.origin && /^(?:assets|games)\/[a-zA-Z0-9_./-]+$/.test(game.embedUrl);
-        const approvedExternalEmbed = (resolved.protocol === "https:" && resolved.hostname === "www.miniplay.com" && (resolved.pathname === "/embed/kour.io" || resolved.pathname === "/embed/police-pursuit-2")) || (resolved.protocol === "https:" && resolved.hostname === "www.gameflare.com" && resolved.pathname === "/embed/traffic-jam-3d/");
+        const approvedExternalEmbed = (resolved.protocol === "https:" && resolved.hostname === "www.miniplay.com" && (resolved.pathname === "/embed/kour.io" || resolved.pathname === "/embed/police-pursuit-2")) || (resolved.protocol === "https:" && resolved.hostname === "www.gameflare.com" && resolved.pathname === "/embed/traffic-jam-3d/") || (resolved.protocol === "https:" && resolved.hostname === "www.madalingames.com" && resolved.pathname === "/wp-content/uploads/games/webgl/M/MSC2-WEBGL/index.html");
         if (localEmbed || approvedExternalEmbed) embedSrc = resolved.href;
       } catch (_) {}
     }
