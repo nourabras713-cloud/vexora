@@ -148,7 +148,7 @@
     else target?.requestFullscreen?.();
   });
   if (!requestedId) { showError("Choose a game from the VEXORA homepage."); return; }
-  const catalogUrl = new URL("assets/data/games.json", document.baseURI);
+  const catalogUrl = new URL("games/games.json", document.baseURI);
   fetch(catalogUrl.href, {cache:"no-cache"})
     .then(response => { if (!response.ok) throw new Error("catalog"); return response.json(); })
     .then(data => {
