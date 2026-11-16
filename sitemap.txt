@@ -69,3 +69,4 @@ https://vexora-4tm.pages.dev/games/traffic-racer.html
 https://vexora-4tm.pages.dev/games/night-city-racing.html
 https://vexora-4tm.pages.dev/games/racing-in-city.html
 https://vexora-4tm.pages.dev/games/race-the-traffic.html
+https://vexora-4tm.pages.dev/games/gt-cars-city-racing.html
