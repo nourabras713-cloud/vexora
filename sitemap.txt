@@ -77,3 +77,5 @@ https://vexora-4tm.pages.dev/games/mr-racer.html
 https://vexora-4tm.pages.dev/games/mx-offroad-master.html
 
 https://vexora-4tm.pages.dev/games/crazy-grand-prix.html
+
+https://vexora-4tm.pages.dev/games/xtreme-drift-racing.html
