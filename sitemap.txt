@@ -74,3 +74,4 @@ https://vexora-4tm.pages.dev/games/racing-horizon.html
 https://vexora-4tm.pages.dev/games/mini-rally-racing.html
 https://vexora-4tm.pages.dev/games/traffic-rider.html
 https://vexora-4tm.pages.dev/games/mr-racer.html
+https://vexora-4tm.pages.dev/games/mx-offroad-master.html
