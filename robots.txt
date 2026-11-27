@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nourabras713-cloud.github.io/vexora/sitemap-github.xml
+Sitemap: https://nourabras713-cloud.github.io/vexora/sitemap.xml
